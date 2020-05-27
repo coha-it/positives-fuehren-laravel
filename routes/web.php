@@ -13,6 +13,9 @@ use Illuminate\Support\Facades\Route;
 |
 */
 
-Route::get('/', function () {
-    return view('welcome');
-});
+// Pages
+Route::get('/', 'PageCtrl@welcome');
+Route::get('impressum', 'PageCtrl@impressum');
+
+// Contact Form
+Route::post('contact', 'ContactCtrl@sendMail');
