@@ -14,5 +14,6 @@ phpunit.dusk.xml
 *.code-workspace
 
 /public/js/*.js
+/public/css/app.css
 
 /*.sql
