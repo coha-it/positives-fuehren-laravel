@@ -1,0 +1,91 @@
+.hero-subscribe-layout #hero,
+.creative-layout #hero,
+.event-layout #hero {
+	background: url(../images/fuehrungskurs/Fotolia_101916333_Subscription_Monthly_XXL.jpg) center center no-repeat;
+}
+
+.hero-subscribe-wrapper form .input-group .btn-subscribe {
+    position: relative;
+    overflow: hidden;
+    margin-left: 0;
+    width: 270px;
+    height: 70px;
+    -webkit-border-radius: 0 8px 8px 0;
+    -moz-border-radius: 0 8px 8px 0;
+    border-radius: 0 8px 8px 0;
+    background-color: #efd84c;
+    color: #fff;
+    text-transform: uppercase;
+    font-size: 24px;
+    -webkit-transition: all 0.2s;
+    transition: all 0.2s;
+}
+
+.cta-default {
+    background: #efd84c;
+        background-color: #efd84c;
+        background-image: none;
+        background-repeat: repeat;
+        background-attachment: scroll;
+        background-clip: border-box;
+        background-origin: padding-box;
+        background-position-x: 0%;
+        background-position-y: 0%;
+        background-size: auto auto;
+}
+
+
+
+#footer-subscribe .btn-subscribe {
+    position: relative;
+    overflow: hidden;
+    margin-left: 0;
+    width: 170px;
+    height: 50px;
+    -webkit-border-radius: 0 8px 8px 0;
+    -moz-border-radius: 0 8px 8px 0;
+    border-radius: 0 8px 8px 0;
+    background-color: #efd84c;
+    color: #fff;
+    text-transform: uppercase;
+    font-size: 16px;
+    -webkit-transition: all 0.2s;
+    transition: all 0.2s;
+}
+
+.contact-form .submit-btn {
+    min-width: 170px;
+    height: 50px;
+    background: #efd84c;
+    text-transform: uppercase;
+    font-size: 20px;
+}
+
+ul.pricing .price:hover {
+    border-color: #efd84c;
+}
+
+.price:hover .price-amount {
+    border-color: #efd84c;
+    background: #efd84c;
+}
+
+.price:hover .price-button {
+    background: #efd84c;
+}
+
+.price-amount {
+    white-space: nowrap;
+}
+
+.nopointer {
+    cursor: not-allowed;
+}
+
+/* Custom Fixes 2020 */
+.logo img {
+    width: fit-content;
+    width: max-content;
+    width: 100%;
+}
+
