@@ -30,6 +30,7 @@
 		<link rel="stylesheet" href="{{ asset('old/css/style-responsive-v2.css') }}">
 		<link rel="stylesheet" href="{{ asset('old/css/expandableGallery.css') }}">
 		<link rel="stylesheet" href="{{ asset('old/css/fuehrungskurs.css') }}">
+		<link rel="stylesheet" href="{{ asset('css/app.css') }}">
 		<link rel="stylesheet" href="{{ asset('old/css/custom.css') }}">
 
 	    <!-- HTML5 shim and Respond.js for IE8 support of HTML5 elements and media queries -->
@@ -575,144 +576,65 @@
 			</section>
 
             <section>
-                <div class="container">
-                    <div class="row">
+                <div class="container big">
+                    <div class="row equal cohapersons" data-sr="enter bottom over 1s and move 80px wait 0s">
 
-                        <div class="team-list" id="team_grid">
+						@php
+							/*
+								
+								
+								
+								
+							*/
+							$quote_persons = [
+								[
+									'name' => 'Hans-Joachim Scherpel',
+									'quote' => 'Die Corporate Happiness® Ausbildung war meine beste Weiterbildung der letzten 30 Jahre!',
+									'image' => 'hans-joachim-scherpel.jpg'
+								],
+								[
+									'name' => 'Silke Göddertz​',
+									'company' => 'Deutsche Telekom',
+									'quote' => 'Ich hätte nie gedacht, dass so viel Kraft dadurch freigesetzt wird.  ',
+									'image' => 'silke-goeddertz.jpg'
+								],
+								[
+									'name' => 'Anette Farrenkopf​',
+									'company' => 'JobCenter München',
+									'quote' => 'Ich empfehle Führungskräften, sich aktiv zu beteiligen, um Ideen in die Teams zu bringen und die Kulturprojekte besser zu begleiten. ',
+									'image' => 'anette-farrenkopf.jpg'
+								],
+								[
+									'name' => 'Michael Buttgereit',
+									'quote' => 'Wenn sie den Schatz in Ihren MitarbeiterInnen entdecken und freisetzen, entsteht dadurch ein großes Glücksgefühl.',
+									'image' => 'michael-buttgereit.jpg'
+								],
 
-                            <div class="col-lg-4 col-md-4 col-sm-4 col-sm-offset-0 col-xs-6 col-xs-offset-3 team-item manager developer">
+							];
+						@endphp
 
-                                <div class="team-item-content">
+						@foreach ($quote_persons as $key => $person)
+							<div class="col-lg-3 col-md-6 col-sm-6 col-xs-12" >
+								<div class="person outer wrapper" data-sr="enter bottom over 1s and move 80px wait {{ ($key + 1) * 0.25 }}s">
+									<div class="person inner wrapper">
+										<div class="avatar wrapper">
+											<img
+												class="avatar"
+												src="{{ url('https://corporatehappiness.s3.eu-central-1.amazonaws.com/positives-fuehren-de/images/quotepersons/' . $person['image']) }}"
+											/>
+										</div>
 
-                                    <img src="old/images/team-photo/270x320.png" alt="Team Photo"/>
+										<div class="quote">
+											<span>{{ $person['quote'] }}</span>
+										</div>
 
-                                    <div class="team-info centered">
-
-                                        <h6>Jonathan Doe</h6>
-                                        <small>An experienced Web/UX Designer on a mission to use his God-given gifts in design to help others.<br/><br class="visible-lg visible-xs"/>He has worked with people in many different countries, and from many different industries. </small>
-                                        <ul class="team-social">
-                                            <li><a href="#0"><span class="icon-link2"></span></a></li>
-                                            <li><a href="#0"><span class="icon-linkedin2"></span></a></li>
-                                            <li><a href="#0"><span class="icon-twitter"></span></a></li>
-                                        </ul> <!--/ .team-social -->
-
-                                    </div> <!--/ .team-info -->
-
-                                </div> <!--/ .team-item-content -->
-
-                            </div> <!--/ .team-item -->
-
-                            <div class="col-lg-4 col-md-4 col-sm-4 col-sm-offset-0 col-xs-6 col-xs-offset-3 team-item manager marketing designer">
-
-                                <div class="team-item-content">
-
-                                    <img src="old/images/team-photo/270x320.png" alt="Team Photo"/>
-
-                                    <div class="team-info centered">
-
-                                        <h6>Robert Doe</h6>
-                                        <small>An experienced Web/UX Designer on a mission to use his God-given gifts in design to help others.<br/><br class="visible-lg visible-xs"/>He has worked with people in many different countries, and from many different industries. </small>
-                                        <ul class="team-social">
-                                            <li><a href="#0"><span class="icon-link2"></span></a></li>
-                                            <li><a href="#0"><span class="icon-linkedin2"></span></a></li>
-                                            <li><a href="#0"><span class="icon-twitter"></span></a></li>
-                                        </ul> <!--/ .team-social -->
-
-                                    </div> <!--/ .team-info -->
-
-                                </div> <!--/ .team-item-content -->
-
-                            </div> <!--/ .team-item -->
-
-                            <div class="col-lg-4 col-md-4 col-sm-4 col-sm-offset-0 col-xs-6 col-xs-offset-3 team-item designer developer">
-
-                                <div class="team-item-content">
-
-                                    <img src="old/images/team-photo/270x320.png" alt="Team Photo"/>
-
-                                    <div class="team-info centered">
-
-                                        <h6>Hannah Doe</h6>
-                                        <small>An experienced Web/UX Designer on a mission to use his God-given gifts in design to help others.<br/><br class="visible-lg visible-xs"/>He has worked with people in many different countries, and from many different industries. </small>
-                                        <ul class="team-social">
-                                            <li><a href="#0"><span class="icon-link2"></span></a></li>
-                                            <li><a href="#0"><span class="icon-linkedin2"></span></a></li>
-                                            <li><a href="#0"><span class="icon-twitter"></span></a></li>
-                                        </ul> <!--/ .team-social -->
-
-                                    </div> <!--/ .team-info -->
-
-                                </div> <!--/ .team-item-content -->
-
-                            </div> <!--/ .team-item -->
-
-                            <div class="col-lg-4 col-md-4 col-sm-4 col-sm-offset-0 col-xs-6 col-xs-offset-3 team-item marketing support">
-
-                                <div class="team-item-content">
-
-                                    <img src="old/images/team-photo/270x320.png" alt="Team Photo"/>
-
-                                    <div class="team-info centered">
-
-                                        <h6>Megan Doe</h6>
-                                        <small>An experienced Web/UX Designer on a mission to use his God-given gifts in design to help others.<br/><br class="visible-lg visible-xs"/>He has worked with people in many different countries, and from many different industries. </small>
-                                        <ul class="team-social">
-                                            <li><a href="#0"><span class="icon-link2"></span></a></li>
-                                            <li><a href="#0"><span class="icon-linkedin2"></span></a></li>
-                                            <li><a href="#0"><span class="icon-twitter"></span></a></li>
-                                        </ul> <!--/ .team-social -->
-
-                                    </div> <!--/ .team-info -->
-
-                                </div> <!--/ .team-item-content -->
-
-                            </div> <!--/ .team-item -->
-
-                            <div class="col-lg-4 col-md-4 col-sm-4 col-sm-offset-0 col-xs-6 col-xs-offset-3 team-item marketing support">
-
-                                <div class="team-item-content">
-
-                                    <img src="old/images/team-photo/270x320.png" alt="Team Photo"/>
-
-                                    <div class="team-info centered">
-
-                                        <h6>Steve Doe</h6>
-                                        <small>An experienced Web/UX Designer on a mission to use his God-given gifts in design to help others.<br/><br class="visible-lg visible-xs"/>He has worked with people in many different countries, and from many different industries. </small>
-                                        <ul class="team-social">
-                                            <li><a href="#0"><span class="icon-link2"></span></a></li>
-                                            <li><a href="#0"><span class="icon-linkedin2"></span></a></li>
-                                            <li><a href="#0"><span class="icon-twitter"></span></a></li>
-                                        </ul> <!--/ .team-social -->
-
-                                    </div> <!--/ .team-info -->
-
-                                </div> <!--/ .team-item-content -->
-
-                            </div> <!--/ .team-item -->
-
-                            <div class="col-lg-4 col-md-4 col-sm-4 col-sm-offset-0 col-xs-6 col-xs-offset-3 team-item support">
-
-                                <div class="team-item-content">
-
-                                    <img src="old/images/team-photo/270x320.png" alt="Team Photo"/>
-
-                                    <div class="team-info centered">
-
-                                        <h6>Mike Doe</h6>
-                                        <small>An experienced Web/UX Designer on a mission to use his God-given gifts in design to help others.<br/><br class="visible-lg visible-xs"/>He has worked with people in many different countries, and from many different industries. </small>
-                                        <ul class="team-social">
-                                            <li><a href="#0"><span class="icon-link2"></span></a></li>
-                                            <li><a href="#0"><span class="icon-linkedin2"></span></a></li>
-                                            <li><a href="#0"><span class="icon-twitter"></span></a></li>
-                                        </ul> <!--/ .team-social -->
-
-                                    </div> <!--/ .team-info -->
-
-                                </div> <!--/ .team-item-content -->
-
-                            </div> <!--/ .team-item -->
-
-                        </div> <!--/ #team_grid -->
+										<div class="name">
+											{{ $person['name'] }}
+										</div>
+									</div>
+								</div>
+							</div>
+						@endforeach
 
                     </div> <!--/ .row -->
                 </div>

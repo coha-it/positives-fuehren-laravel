@@ -1,1 +1,90 @@
 //
+
+.equal {
+    display: flex;
+    display: -webkit-flex;
+    flex-wrap: wrap;
+  }
+
+  @media (min-width: 768px) {
+    .row.equal {
+      display: flex;
+      flex-wrap: wrap;
+    }
+  }
+
+
+.cohapersons {
+
+    .person {
+        &.wrapper {
+            &.outer {
+                padding: 10px;
+            }
+            &.inner {
+                text-align: center;
+            }
+        }
+    }
+
+    .quote {
+        font-size: 23px;
+        font-weight: 700;
+        line-height: 1.25;
+        font-style: italic;
+        padding: 15px 5px;
+        color: #646464;
+        max-width: 350px;
+        margin: auto;
+        // min-height: 250px;
+        // display: flex;
+        // align-items: center;
+        // justify-content: center;
+
+        span {
+
+            position: relative;
+
+            &:after,
+            &:before {
+                position: absolute;
+            }
+
+            &:after {
+                content: "\AB";
+                right: -12px;
+                bottom: 3px;
+            }
+            &:before {
+                content: "\BB";
+                right: 101%;
+                top: 2px;
+            }
+        }
+    }
+
+    img.avatar {
+        transition: 300ms;
+        border-radius: 100%;
+        max-width: 250px;
+        width: 100%;
+    }
+
+    &:hover {
+        & > div {
+            transition: 200ms;
+            &:hover {
+                img.avatar {
+                    transform: scale(1.05);
+                }
+            }
+            &:not(:hover) {
+                opacity: .85;
+                img.avatar {
+                    filter: saturate(0.5);
+                }
+            }
+        }
+    }
+
+}
