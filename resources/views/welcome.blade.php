@@ -598,14 +598,14 @@
               <div class="col-lg-4 col-md-6 centered">
 								<li class="price" data-sr="enter bottom over 1s and move 80px wait 0.4s">
 
-									<h5 class="price-title">Onlinekurs</h5>
+									<h5 class="price-title">Crashkurs</h5>
 									<span class="best-value-label">Crashkurs Krisenmanagement</span>
 									<div class="price-amount">450 EUR</div>
 									<ul class="price-feature">
 										<li>Im Preis enthalten:</li>
 										<li>3 Live Web-Sessions mit Dr. Oliver Haas innerhalb einer Woche</li>
 										<li>Aufzeichnung der Sessions zum wiederholten anschauen</li>
-										<li>Preis anrechenbar auf Intensivseminar?</li>
+										<li>Teilnehmer können individuelle Themen einbringen​</li>
 									</ul> <!--/ .price-feature -->
 									<a href="https://www.corporate-happiness.de/krisenmangementkurs-mit-dr.-oliver-haas" target="_blank" class="price-button all-caps">Jetzt kaufen</a>
 
@@ -616,9 +616,9 @@
               <div class="col-lg-4 col-md-6 centered">
 								<li class="price" data-sr="enter bottom over 1s and move 80px wait 0.4s">
 
-									<h5 class="price-title">Onlinekurs</h5>
+									<h5 class="price-title">Online-Training</h5>
 									<span class="best-value-label">Positive Psychologie für Führungskräfte</span>
-									<div class="price-amount">760 EUR</div>
+									<div class="price-amount">950 EUR</div>
 									<ul class="price-feature">
 										<li>Im Preis enthalten:</li>
 										<li>3 Monate Zugang zur Online-Lernplattform</li>
