@@ -81,7 +81,7 @@
 
 					<div class="col-12 col-xs-12 col-sm-12 col-md-12 col-lg-12 col-xl-12">
 
-						<a href="#0" class="logo main_logo_c"><img src="https://corporatehappiness.s3.eu-central-1.amazonaws.com/positives-fuehren-de/images/logo/corporate-happiness-logo.svg" alt="Urip Logo"></a> <!-- Your Logo -->
+						<a href="#0" class="logo main_logo_c"><img src="https://corporatehappiness.s3.eu-central-1.amazonaws.com/positives-fuehren-de/images/logo/corporate-happiness-logo-white.svg" alt="Urip Logo"></a> <!-- Your Logo -->
 
 						<a href="#0" id="nav-menu-trigger" class="menu-toggle pull-right all-caps">Menu<span class="icon-menu5"></span></a> <!-- Menu Toggle -->
 
