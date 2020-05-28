@@ -146,7 +146,7 @@ $(document).ready(function(){
 	// Remove class of the clone header
 	// so we can distinguish between the original and the clone header.
 	$('.header-clone').removeClass('the-origin-header');
-	$('.header-clone').find('.main_logo_c img').attr('src', 'images/corporate-happiness-logo-hwhite-2-zeiler.svg')
+	$('.header-clone').find('.main_logo_c img').attr('src', 'https://corporatehappiness.s3.eu-central-1.amazonaws.com/positives-fuehren-de/images/logo/corporate-happiness-logo-hwhite-2-zeiler.svg')
 
 
 	/* ==========================
@@ -333,7 +333,7 @@ $(document).ready(function(){
                     $('#success-notification').addClass('show-up');
                     $('.submit-btn').addClass('disabled');
                 } else {
-              		$('#error-notification').addClass('show-up');  	
+              		$('#error-notification').addClass('show-up');
                 }
             });
         }
