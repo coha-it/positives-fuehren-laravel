@@ -232,7 +232,9 @@
 
     						<div class="clearfix"></div>
 
-    						<a href="https://www.corporate-happiness.de/positive-psychologie-fuer-fuehrungskraefte" class="cta cta-default all-caps xxx_contact-trigger">Neugierig geworden?</a>
+							<a href="https://www.corporate-happiness.de/krisenmangementkurs-mit-dr.-oliver-haas" target="_blank" class="cta cta-default all-caps xxx_contact-trigger">
+								Zum Crashkurs
+							</a>
     						<br><br><br>
 
     					</div>
@@ -269,7 +271,7 @@
 
     						<div class="clearfix"></div>
 
-    						<a href="https://www.corporate-happiness.de/termine" class="cta cta-default all-caps xxx_contact-trigger">
+    						<a href="https://www.corporate-happiness.de/krisenmangementkurs-mit-dr.-oliver-haas" target="_blank" class="cta cta-default all-caps xxx_contact-trigger">
     							Termine
     						</a>
     						<br><br><br>
@@ -281,7 +283,7 @@
 			</section>
 
 
-			<section id="onlinetraining" class="centered section_outer">
+			<section id="onlinetraining" class="centered section_outer grey">
                 <div class="section_inner">
                     <div class="section_header">
                         Das Online-Training
@@ -302,7 +304,13 @@
 
     								<div class="col-lg-10 col-lg-offset-1">
 
-    									<p><strong> Positive Psychologie für Führungskräfte</strong> ist ein Onlinekurs, der die Themen Positive Führung und Unternehmensgestaltung mit neusten Erkenntnissen der Positiven Psychologie, Neurowissenschaften und Führungsansätzen verbindet.</p>
+										<p><strong> Positive Psychologie für Führungskräfte</strong> ist ein Onlinekurs, der die Themen Positive Führung und Unternehmensgestaltung mit neusten Erkenntnissen der Positiven Psychologie, Neurowissenschaften und Führungsansätzen verbindet.</p>
+										
+										<div>
+											<a href="https://www.corporate-happiness.de/online-ausbildung-mit-trainerbegleitung" target="_blank" class="cta cta-default all-caps xxx_contact-trigger">
+												Zum Online-Training
+											</a>
+										</div>
 
     								</div><!--/ .col-lg-10 -->
 
@@ -392,11 +400,126 @@
 
     								</div> <!--/ .the-feature -->
     								<!--/ END 2nd Row Features -->
-    							</div>
+								</div>
     						</div>
 
     					</div> <!--/ .row -->
-    				</div> <!--/ .container -->
+					</div> <!--/ .container -->
+					
+					<section id="die-module" class="centered">
+
+						<div class="container-full">
+							<div class="row">
+		
+		
+								<div class="col-lg-8 col-lg-offset-2 col-md-8 col-md-offset-2 centered">
+		
+									<p class="section-title">Die Module</p>
+		
+									<h2 class="section-heading"></h2>
+		
+								</div> <!--/ .col-lg-8 -->
+		
+								<div class="clearfix"></div>
+		
+		
+								<!-- BEGIN How it Works Column -->
+								<ul class="how-it-works-col">
+		
+									<li class="col-lg-4 col-md-4 col-sm-4">
+										<div class="how-it-works-title">
+		
+											<img src="{{ asset('old/images/fuehrungskurs/Bild1.jpg') }}" alt="Fully Responsive" data-pagespeed-url-hash="1308031545" onload="pagespeed.CriticalImages.checkImageForCriticality(this);" style="visibility: visible; ">
+											<h4>Grundlagenkurs</h4>
+		
+										</div> <!--/ .how-it-works-title -->
+		
+										<div class="how-it-works-info">
+		
+											<h4>Grundlagenkurs</h4>
+											<p><strong>Themen:</strong> Einführung in den Kurs, Menschenbilder und Lösungsansätze der Arbeitswelt 4.0, Einführung in die Positive Psychologie, Haltung, Rosenthal-Effekt, Neuroplastizität, Corporate Happiness® als Führungssystem.</p>
+		
+										</div> <!--/ .how-it-works-info -->
+									</li> <!--/ .one-third-col -->
+		
+									<li class="col-lg-4 col-md-4 col-sm-4">
+										<div class="how-it-works-title">
+		
+											<img src="{{ asset('old/images/fuehrungskurs/Bild3.jpg') }}" alt="Fully Responsive" data-pagespeed-url-hash="1897031387" onload="pagespeed.CriticalImages.checkImageForCriticality(this);" style="visibility: visible; ">
+											<h4>Positive Führung</h4>
+		
+										</div> <!--/ .how-it-works-title -->
+		
+										<div class="how-it-works-info">
+		
+											<h4>Positive Führung</h4>
+											<p><strong>Themen:</strong> Einführung in die positive Führung, die Arbeit als Berufung erleben, sich selbst führen als Basis für Veränderungen, positive Emotionen wecken und fördern, Stärken entdecken und stärken, Bedeutsamkeit erfahren und vertiefen, Peak Performance.</p>
+		
+										</div> <!--/ .how-it-works-info -->
+									</li> <!--/ .one-third-col -->
+		
+									<li class="col-lg-4 col-md-4 col-sm-4">
+										<div class="how-it-works-title">
+		
+											<img src="{{ asset('old/images/fuehrungskurs/Bild2.jpg') }}" alt="Fully Responsive" data-pagespeed-url-hash="1602531466" onload="pagespeed.CriticalImages.checkImageForCriticality(this);" style="visibility: visible; ">
+											<h4>Positive Unternehmensgestaltung</h4>
+		
+										</div> <!--/ .how-it-works-title -->
+		
+										<div class="how-it-works-info">
+		
+											<h4>Positive Unternehmensgestaltung</h4>
+											<p><strong>Themen:</strong> Einführung in die positive Unternehmensgestaltung, Kohärenzmodell nach Aaron Antonovsky, wirksames Zuhören, Persönlichkeitsentwicklung, Leitbildentwicklung, Ermutigen und Inspirieren, warum Umsetzungsprozesse oftmals scheitern, nachhaltige Umsetzung sichern, Maßnahmenplan, Unterstützung der Corporate Happiness® Botschafter.</p>
+		
+		
+		
+										</div> <!--/ .how-it-works-info -->
+									</li> <!--/ .one-third-col -->
+		
+		
+								</ul>
+								<!--/ END How it Works Column -->
+		
+							</div> <!--/ .row -->
+						</div> <!--/ .container-full -->
+		
+					</section>
+
+					<div class="container big">
+						<div class="row">
+							<div class="col-lg-6 col-md-6 col-sm-12 col-xs-12 col-12 text-left">
+								<ul class="checklist">
+									<h3>Ist der Kurs der Richtige für mich?</h3>
+	
+									<p>Der Kurs Positive Psychologie für Führungskräfte ist der richtige Kurs für Sie, wenn Sie sich schon einmal eine der folgenden Fragen gestellt haben oder einfach neugierig darauf sind, Neues zu lernen. </p>
+	
+									<li>Wie begeistere ich meine Mitarbeiter?</li>
+									<li>Wie fördere ich die Stärken meines Teams?</li>
+									<li>Was sind die Komponenten positiver Führung?</li>
+									<li>Wie kann ich durch Sinnstiftung und Inspiration die Team-Performance steigern?</li>
+									<li class="visible-lg">Wie kann ich eine positive Kultur in meinem Unternehmen unterstützen?</li>
+								</ul> <!--/ .checklist -->
+							</div>
+							<div class="col-lg-6 col-md-6 col-sm-12 col-xs-12 col-12 text-left">
+								<h3>Was ist im Kurspreis enthalten?</h3>
+								<ul class="checklist">
+									<li>Zugang zur Online-Lernplattform für 3 Monate</li>
+									<li>Ein Willkommenspaket im Wert von 100 Euro</li>
+									<li>Support durch das Corporate Happiness®-Trainer-Team während Ihrer gesamten Kurszeit</li>
+									<li>Ein einzigartiges Lernerlebnis durch eine anregend gestaltete Online-Lernplattform</li>
+									<li class="visible-lg">Und vieles mehr!</li>
+								</ul> <!--/ .checklist -->
+							</div>
+						</div>
+						<div class="row">
+							<div class="col-lg-12 col-12 text-center">
+								<a href="https://www.corporate-happiness.de/positive-psychologie-fuer-fuehrungskraefte" target="_blank" class="cta cta-default all-caps xxx_contact-trigger">
+									TERMINE UND BUCHUNG
+								</a>
+							</div>
+						</div>
+					</div>
+
                 </div>
 			</section>
 
@@ -413,123 +536,6 @@
 			== BEGIN KURSINHALTE SECTION ==
 			================================
 			-->
-			<section id="die-module" class="gray-bg centered">
-
-				<div class="container-full">
-					<div class="row">
-
-
-                        <div class="col-lg-8 col-lg-offset-2 col-md-8 col-md-offset-2 centered" style="margin-top: 80px;">
-
-							<p class="section-title">Die Module</p>
-
-							<h2 class="section-heading"></h2>
-
-						</div> <!--/ .col-lg-8 -->
-
-						<div class="clearfix"></div>
-
-
-						<!-- BEGIN How it Works Column -->
-						<ul class="how-it-works-col">
-
-							<li class="col-lg-4 col-md-4 col-sm-4">
-								<div class="how-it-works-title">
-
-									<img src="{{ asset('old/images/fuehrungskurs/Bild1.jpg') }}" alt="Fully Responsive" data-pagespeed-url-hash="1308031545" onload="pagespeed.CriticalImages.checkImageForCriticality(this);" style="visibility: visible; ">
-									<h4>Grundlagenkurs</h4>
-
-								</div> <!--/ .how-it-works-title -->
-
-								<div class="how-it-works-info">
-
-									<h4>Grundlagenkurs</h4>
-									<p><strong>Themen:</strong> Einführung in den Kurs, Menschenbilder und Lösungsansätze der Arbeitswelt 4.0, Einführung in die Positive Psychologie, Haltung, Rosenthal-Effekt, Neuroplastizität, Corporate Happiness® als Führungssystem.</p>
-
-								</div> <!--/ .how-it-works-info -->
-							</li> <!--/ .one-third-col -->
-
-							<li class="col-lg-4 col-md-4 col-sm-4">
-								<div class="how-it-works-title">
-
-									<img src="{{ asset('old/images/fuehrungskurs/Bild3.jpg') }}" alt="Fully Responsive" data-pagespeed-url-hash="1897031387" onload="pagespeed.CriticalImages.checkImageForCriticality(this);" style="visibility: visible; ">
-									<h4>Positive Führung</h4>
-
-								</div> <!--/ .how-it-works-title -->
-
-								<div class="how-it-works-info">
-
-									<h4>Positive Führung</h4>
-									<p><strong>Themen:</strong> Einführung in die positive Führung, die Arbeit als Berufung erleben, sich selbst führen als Basis für Veränderungen, positive Emotionen wecken und fördern, Stärken entdecken und stärken, Bedeutsamkeit erfahren und vertiefen, Peak Performance.</p>
-
-								</div> <!--/ .how-it-works-info -->
-							</li> <!--/ .one-third-col -->
-
-							<li class="col-lg-4 col-md-4 col-sm-4">
-								<div class="how-it-works-title">
-
-									<img src="{{ asset('old/images/fuehrungskurs/Bild2.jpg') }}" alt="Fully Responsive" data-pagespeed-url-hash="1602531466" onload="pagespeed.CriticalImages.checkImageForCriticality(this);" style="visibility: visible; ">
-									<h4>Positive Unternehmensgestaltung</h4>
-
-								</div> <!--/ .how-it-works-title -->
-
-								<div class="how-it-works-info">
-
-									<h4>Positive Unternehmensgestaltung</h4>
-									<p><strong>Themen:</strong> Einführung in die positive Unternehmensgestaltung, Kohärenzmodell nach Aaron Antonovsky, wirksames Zuhören, Persönlichkeitsentwicklung, Leitbildentwicklung, Ermutigen und Inspirieren, warum Umsetzungsprozesse oftmals scheitern, nachhaltige Umsetzung sichern, Maßnahmenplan, Unterstützung der Corporate Happiness® Botschafter.</p>
-
-
-
-								</div> <!--/ .how-it-works-info -->
-							</li> <!--/ .one-third-col -->
-
-
-						</ul>
-						<!--/ END How it Works Column -->
-
-					</div> <!--/ .row -->
-				</div> <!--/ .container-full -->
-
-			</section>
-
-			<section>
-				<div class="container big">
-					<div class="row">
-						<div class="col-lg-6 col-md-6 col-sm-12 col-xs-12 col-12">
-							<ul class="checklist">
-								<h3>Ist der Kurs der Richtige für mich?</h3>
-
-								<p>Der Kurs Positive Psychologie für Führungskräfte ist der richtige Kurs für Sie, wenn Sie sich schon einmal eine der folgenden Fragen gestellt haben oder einfach neugierig darauf sind, Neues zu lernen. </p>
-
-								<li>Wie begeistere ich meine Mitarbeiter?</li>
-								<li>Wie fördere ich die Stärken meines Teams?</li>
-								<li>Was sind die Komponenten positiver Führung?</li>
-								<li>Wie kann ich durch Sinnstiftung und Inspiration die Team-Performance steigern?</li>
-								<li class="visible-lg">Wie kann ich eine positive Kultur in meinem Unternehmen unterstützen?</li>
-							</ul> <!--/ .checklist -->
-						</div>
-						<div class="col-lg-6 col-md-6 col-sm-12 col-xs-12 col-12">
-							<h3>Was ist im Kurspreis enthalten?</h3>
-							<ul class="checklist">
-								<li>Zugang zur Online-Lernplattform für 3 Monate</li>
-								<li>Ein Willkommenspaket im Wert von 100 Euro</li>
-								<li>Support durch das Corporate Happiness®-Trainer-Team während Ihrer gesamten Kurszeit</li>
-								<li>Ein einzigartiges Lernerlebnis durch eine anregend gestaltete Online-Lernplattform</li>
-								<li class="visible-lg">Und vieles mehr!</li>
-							</ul> <!--/ .checklist -->
-						</div>
-					</div>
-					<div class="row">
-						<div class="col-lg-12 col-12 text-center">
-							<a href="https://www.corporate-happiness.de/positive-psychologie-fuer-fuehrungskraefte" target="_blank" class="cta cta-default all-caps xxx_contact-trigger">
-								TERMINE UND BUCHUNG
-							</a>
-						</div>
-					</div>
-				</div>
-			</section>
-
-
 
 			<section id="intensivseminar" class="centered section_outer">
                 <div class="section_inner">

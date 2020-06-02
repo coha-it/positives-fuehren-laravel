@@ -44,7 +44,9 @@ h1, h2, h3, h4, h5
   /* background: url(../images/positives-fuehren.jpg) center center no-repeat; */
   /* background: url(https://corporatehappiness.s3.eu-central-1.amazonaws.com/positives-fuehren-de/images/positives-fuehren-de-img-resize.jpg) center center no-repeat; */
   // background: url(https://corporatehappiness.s3.eu-central-1.amazonaws.com/positives-fuehren-de/images/banner/los-gehts.jpg) center center no-repeat;
-  background: url(https://corporatehappiness.s3.eu-central-1.amazonaws.com/positives-fuehren-de/images/banner/change-your-mindset.jpg) center center no-repeat;
+  // background: url(https://corporatehappiness.s3.eu-central-1.amazonaws.com/positives-fuehren-de/images/banner/change-your-mindset.jpg) center center no-repeat;
+  // background: url(https://corporatehappiness.s3.eu-central-1.amazonaws.com/positives-fuehren-de/images/banner/change-your-mindset-crp.jpg) center center no-repeat;
+  background: url(https://corporatehappiness.s3.eu-central-1.amazonaws.com/positives-fuehren-de/images/banner/change-your-mindset-mvd.jpg) center center no-repeat;
 }
 
 
@@ -167,9 +169,10 @@ h1, h2, h3, h4, h5
 
 }
 
-p.section-title {
+.section-title {
   font-size: 23px;
   letter-spacing: .1em;
+  margin-top: 50px;
 }
 
 .section_header {
@@ -187,8 +190,10 @@ p.section-title {
 }
 
 .section_outer {
-    position: relative;
-    background: #fbfbfb;
+  position: relative;
+  background: #fbfbfb;
+  padding-right: 25px;
+  padding-left: 25px;
 
     &.white {
         background: #fff;
@@ -200,9 +205,10 @@ p.section-title {
 }
 
 .section_inner {
-    background: #fff;
-    border: 1px solid black;
-    margin: 0 25px;
-    padding: 25px 0;
-    position: relative;
+  background: #fff;
+  border: 1px solid black;
+  padding: 25px 0;
+  position: relative;
+  max-width: 1500px;
+  margin: auto;
 }
