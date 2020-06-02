@@ -182,12 +182,13 @@ h1, h2, h3, h4, h5
 .section-title {
   font-size: 23px;
   letter-spacing: .1em;
-  margin-top: 50px;
+  margin-top: 75px;
   line-height: 1.75;
 }
 
 .cta-default,
 .cta-stroke {
+    line-height: 2;
   &:after {
     display: inline-block;
   }
@@ -252,7 +253,7 @@ main#main-content {
   }
 }
 
-@media (max-width: 450px) { 
+@media (max-width: 450px) {
   .section_header {
       width: 100%;
       transform: translateY(-125%);

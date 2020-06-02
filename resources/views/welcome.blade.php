@@ -13,7 +13,7 @@
 		<link rel="stylesheet" href="https://use.typekit.net/cvy3vwb.css">
 
 	    <!-- CSS -->
-		<link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.5/css/bootstrap.min.css">
+		<link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/4.1.3/css/bootstrap.min.css">
 		<link rel="stylesheet" type="text/css" href="https://fonts.googleapis.com/css?family=Droid+Serif:400,400italic|Montserrat:700,400|Varela+Round">
 
 		<!-- Font Icon -->
@@ -83,7 +83,7 @@
 
 						<a href="#0" class="logo main_logo_c"><img src="https://corporatehappiness.s3.eu-central-1.amazonaws.com/positives-fuehren-de/images/logo/corporate-happiness-logo-white.svg" alt="Urip Logo"></a> <!-- Your Logo -->
 
-						<a href="#0" id="nav-menu-trigger" class="menu-toggle pull-right all-caps">Menu<span class="icon-menu5"></span></a> <!-- Menu Toggle -->
+						<a href="#0" id="nav-menu-trigger" class="menu-toggle float-right all-caps">Menu<span class="icon-menu5"></span></a> <!-- Menu Toggle -->
 
 					</div> <!--/ .col-lg-12 -->
 
@@ -193,9 +193,9 @@
                 <div class="section_inner">
                     <div class="section_header">Der Crashkurs​</div>
     				<div class="container">
-    					<div class="row">
+    					<div class="row justify-content-center">
 
-    						<div class="col-lg-8 col-lg-offset-2 col-md-8 col-md-offset-2 centered">
+    						<div class="col-lg-8 col-md-8 centered">
 
     							<h2 class="section-heading">FÜHREN IN KRISENZEITEN WAS JETZT WIRKLICH WICHTIG IST</h2>
 
@@ -203,7 +203,7 @@
 
     						<div class="clearfix"></div>
 
-    						<div class="col-lg-10 col-lg-offset-1">
+    						<div class="col-lg-10">
 
     							<p>
     								Führung war selten so anspruchsvoll wie in diesen Tagen. Mitarbeiter kommen verunsichert und mit vielen Fragen aus dem Homeoffice. Das eigene Geschäftsmodell bedarf einer Überprüfung für die Zeit nach Corona. Digitalisierung und Fachkräftemangel und Generation Y komplettieren den Anspruch, das Unternehmen zukunftssicher zu führen. Sind Sie auch nachdenklich in diesen Tagen? Jedes Unternehmen braucht jetzt eine Aufbruchsstimmung und eine starke Arbeitgebermarke. Dies wird nur mit kreativen und agilen Mitarbeiter gelingen. Wie Sie das schaffen und Ihr Unternehmen bzw. Ihre Abteilung zukunftssicher aufstellen, erfahren Sie in diesem Kurs.​
@@ -215,16 +215,16 @@
 
     					</div>
 
-    					<div class="row">
+    					<div class="row justify-content-center">
 
-    						<div class="col-lg-8 col-lg-offset-2 col-md-8 col-md-offset-2 centered">
+    						<div class="col-lg-8 col-md-8 centered">
     							<p class="section-title"> ZIEL <span style="margin: 0 10px;">|</span> SOFORT UMSETZBARES WISSEN </p>
     							<h2 class="section-heading">INDIVIDUELLE UND INNOVATIVE LÖSUNGEN IN 7 TAGEN​</h2>
     						</div>
 
     						<div class="clearfix"></div>
 
-    						<div class="col-lg-10 col-lg-offset-1">
+    						<div class="col-lg-10">
     							<p>
     								Nach diesem Kurs verstehen Sie, warum Sie die Performance Ihrer Mitarbeiter vernichten, wenn Sie sie motivieren und kontrollieren. Denn was Ihre Mitarbeiter jetzt wirklich brauchen ist, etwas ganz anderes. Lernen Sie, was die Stellschrauben für Performance und Kultur sind, damit Wertschätzung zu Wertschöpfung führt. Ihre Mitarbeiter sind Ihr Kapital und ohne sie werden Sie in Zukunft nicht wettbewerbsfähig sein.​
     							</p>
@@ -240,16 +240,16 @@
     					</div>
 
 
-    					<div class="row">
+    					<div class="row justify-content-center">
 
-    						<div class="col-lg-8 col-lg-offset-2 col-md-8 col-md-offset-2 centered">
+    						<div class="col-lg-8 col-md-8 centered">
     							<p class="section-title"> INHALT <span style="margin: 0 10px;">|</span> LIVE-SESSIONS </p>
     							<h2 class="section-heading">FÜHRUNGSKRÄFTE-COACHING MIT DR. OLIVER HAAS​</h2>
     						</div>
 
     						<div class="clearfix"></div>
 
-    						<div class="col-lg-10 col-lg-offset-1">
+    						<div class="col-lg-10">
     							<p>
     								<strong>Führung in und nach der Krise:</strong>
     								Wo stehen Sie gerade? Warum müssen Sie sich ausgerechnet jetzt mit persönlichem Wachstum der Mitarbeiter beschäftigen? Warum müssen Sie jetzt was tun und wo fangen Sie an?​
@@ -269,11 +269,12 @@
     							</p>
     						</div>
 
-    						<div class="clearfix"></div>
+                            <div class="clearfix"></div>
 
-    						<a href="https://www.corporate-happiness.de/krisenmangementkurs-mit-dr.-oliver-haas" target="_blank" class="cta cta-default all-caps xxx_contact-trigger">
-    							Termine
-    						</a>
+                            <div class="col-lg-12">
+                                <a href="https://www.corporate-happiness.de/krisenmangementkurs-mit-dr.-oliver-haas" target="_blank" class="cta cta-default all-caps xxx_contact-trigger">Termine</a>
+                            </div>
+
     						<br><br><br>
 
     					</div>
@@ -294,7 +295,7 @@
     						<div class="col-lg-6 col-md-12 col-sm-12 col-xs-12 col-12">
     							<div class="row">
 
-    								<div class="col-lg-8 col-lg-offset-2 col-md-8 col-md-offset-2 centered">
+    								<div class="col-lg-8 offset-lg-2 col-md-8 offset-md-2 centered">
 
     									<h2 class="section-heading">Positive Psychologie für Führungskräfte ist ein innovativer Onlinekurs, um einzigartiges Wachstum zu erleben.</h2>
 
@@ -302,10 +303,10 @@
 
     								<div class="clearfix"></div>
 
-    								<div class="col-lg-10 col-lg-offset-1">
+    								<div class="col-lg-10 offset-lg-1">
 
 										<p><strong> Positive Psychologie für Führungskräfte</strong> ist ein Onlinekurs, der die Themen Positive Führung und Unternehmensgestaltung mit neusten Erkenntnissen der Positiven Psychologie, Neurowissenschaften und Führungsansätzen verbindet.</p>
-										
+
 										<div>
 											<a href="https://www.corporate-happiness.de/online-ausbildung-mit-trainerbegleitung" target="_blank" class="cta cta-default all-caps xxx_contact-trigger">
 												Zum Online-Training
@@ -405,84 +406,84 @@
 
     					</div> <!--/ .row -->
 					</div> <!--/ .container -->
-					
+
 					<section id="die-module" class="centered">
 
 						<div class="container-full">
 							<div class="row">
-		
-		
-								<div class="col-lg-8 col-lg-offset-2 col-md-8 col-md-offset-2 centered">
-		
+
+
+								<div class="col-lg-8 offset-lg-2 col-md-8 offset-md-2 centered">
+
 									<p class="section-title">Die Module</p>
-		
+
 									<h2 class="section-heading"></h2>
-		
+
 								</div> <!--/ .col-lg-8 -->
-		
+
 								<div class="clearfix"></div>
-		
-		
+
+
 								<!-- BEGIN How it Works Column -->
-								<ul class="how-it-works-col">
-		
+								<ul class="row justify-content-center how-it-works-col" style="width: 100%;">
+
 									<li class="col-lg-4 col-md-4 col-sm-4">
 										<div class="how-it-works-title">
-		
+
 											<img src="{{ asset('old/images/fuehrungskurs/Bild1.jpg') }}" alt="Fully Responsive" data-pagespeed-url-hash="1308031545" onload="pagespeed.CriticalImages.checkImageForCriticality(this);" style="visibility: visible; ">
 											<h4>Grundlagenkurs</h4>
-		
+
 										</div> <!--/ .how-it-works-title -->
-		
+
 										<div class="how-it-works-info">
-		
+
 											<h4>Grundlagenkurs</h4>
 											<p><strong>Themen:</strong> Einführung in den Kurs, Menschenbilder und Lösungsansätze der Arbeitswelt 4.0, Einführung in die Positive Psychologie, Haltung, Rosenthal-Effekt, Neuroplastizität, Corporate Happiness® als Führungssystem.</p>
-		
+
 										</div> <!--/ .how-it-works-info -->
 									</li> <!--/ .one-third-col -->
-		
+
 									<li class="col-lg-4 col-md-4 col-sm-4">
 										<div class="how-it-works-title">
-		
+
 											<img src="{{ asset('old/images/fuehrungskurs/Bild3.jpg') }}" alt="Fully Responsive" data-pagespeed-url-hash="1897031387" onload="pagespeed.CriticalImages.checkImageForCriticality(this);" style="visibility: visible; ">
 											<h4>Positive Führung</h4>
-		
+
 										</div> <!--/ .how-it-works-title -->
-		
+
 										<div class="how-it-works-info">
-		
+
 											<h4>Positive Führung</h4>
 											<p><strong>Themen:</strong> Einführung in die positive Führung, die Arbeit als Berufung erleben, sich selbst führen als Basis für Veränderungen, positive Emotionen wecken und fördern, Stärken entdecken und stärken, Bedeutsamkeit erfahren und vertiefen, Peak Performance.</p>
-		
+
 										</div> <!--/ .how-it-works-info -->
 									</li> <!--/ .one-third-col -->
-		
+
 									<li class="col-lg-4 col-md-4 col-sm-4">
 										<div class="how-it-works-title">
-		
+
 											<img src="{{ asset('old/images/fuehrungskurs/Bild2.jpg') }}" alt="Fully Responsive" data-pagespeed-url-hash="1602531466" onload="pagespeed.CriticalImages.checkImageForCriticality(this);" style="visibility: visible; ">
 											<h4>Positive Unternehmensgestaltung</h4>
-		
+
 										</div> <!--/ .how-it-works-title -->
-		
+
 										<div class="how-it-works-info">
-		
+
 											<h4>Positive Unternehmensgestaltung</h4>
 											<p><strong>Themen:</strong> Einführung in die positive Unternehmensgestaltung, Kohärenzmodell nach Aaron Antonovsky, wirksames Zuhören, Persönlichkeitsentwicklung, Leitbildentwicklung, Ermutigen und Inspirieren, warum Umsetzungsprozesse oftmals scheitern, nachhaltige Umsetzung sichern, Maßnahmenplan, Unterstützung der Corporate Happiness® Botschafter.</p>
-		
-		
-		
+
+
+
 										</div> <!--/ .how-it-works-info -->
 									</li> <!--/ .one-third-col -->
-		
-		
+
+
 								</ul>
 								<!--/ END How it Works Column -->
-		
+
 							</div> <!--/ .row -->
 						</div> <!--/ .container-full -->
-		
+
 					</section>
 
 					<div class="container big">
@@ -490,9 +491,9 @@
 							<div class="col-lg-6 col-md-6 col-sm-12 col-xs-12 col-12 text-left">
 								<ul class="checklist">
 									<h3>Ist der Kurs der Richtige für mich?</h3>
-	
+
 									<p>Der Kurs Positive Psychologie für Führungskräfte ist der richtige Kurs für Sie, wenn Sie sich schon einmal eine der folgenden Fragen gestellt haben oder einfach neugierig darauf sind, Neues zu lernen. </p>
-	
+
 									<li>Wie begeistere ich meine Mitarbeiter?</li>
 									<li>Wie fördere ich die Stärken meines Teams?</li>
 									<li>Was sind die Komponenten positiver Führung?</li>
@@ -545,7 +546,7 @@
                     <div class="container">
                         <div class="row">
 
-                            <div class="col-lg-8 col-lg-offset-2 col-md-8 col-md-offset-2 centered">
+                            <div class="col-lg-8 offset-lg-2 col-md-8 offset-md-2 centered">
 
                                 <h2 class="section-heading">In unserem virtuellen Intensivseminar für Unternehmer, Führungskräfte und Personalentwickler</h2>
 
@@ -553,7 +554,7 @@
 
                             <div class="clearfix"></div>
 
-                            <div class="col-lg-10 col-lg-offset-1">
+                            <div class="col-lg-10 offset-lg-1">
 
                                 <p>
                                     erleben Sie die enge verzahnung zwischen Theorie und Praxis. Aufbauend auf unserem oben beschriebenen Onlinekurs, werden wir die Themen anhand von konkreten Unternehmensbeispielen vertiefen und die ganz persönlichen Herausforderungen Ihres Unternehmens besprechen. Dazu werden wir auch immer wieder Interviewpartner hinzuschalten, die Ihnen von Ihren Erfahrungen berichten und für Fragen zur Verfügung stellen.​ Termine und weitere Infos folgen in Kürze. ​
@@ -563,7 +564,7 @@
 
                             <div class="clearfix"></div>
 
-                            <div data-sr="enter bottom over 1s and move 80px wait 0.4s">
+                            <div data-sr="enter bottom over 1s and move 80px wait 0.4s" style="width: 100%;">
                                 <a class="cta cta-default all-caps contact-trigger">
                                     Kontakt
                                 </a>
@@ -585,7 +586,7 @@
             <section>
                 <div class="container big">
 					<div class="row">
-						<div class="col-lg-8 col-lg-offset-2 col-md-8 col-md-offset-2 centered">
+						<div class="col-lg-8 offset-lg-2 col-md-8 offset-md-2 centered">
 							<p class="section-title">Referenzen</p>
 						</div>
 					</div>
@@ -657,7 +658,7 @@
 				<div class="container">
 					<div class="row">
 
-						<div class="col-lg-8 col-lg-offset-2 col-md-8 col-md-offset-2 centered">
+						<div class="col-lg-8 offset-lg-2 col-md-8 offset-md-2 centered">
 
 							<p class="section-title">Ihre Investition</p>
 
@@ -667,7 +668,7 @@
 						<div class="clearfix"></div>
 
 						<!-- BEGIN Pricing Table -->
-						<ul class="pricing">
+						<ul class="pricing row">
 
 
 
@@ -756,15 +757,15 @@
 		<footer id="main-footer">
 
 			<div class="container">
-				<div class="row">
+				<div class="row" style="text-align: center">
 
-					<ul class="footer-nav all-caps">
+					<ul class="footer-nav all-caps" style="width: 100%;">
 						<li><a href="https://www.corporate-happiness.de" target="_blank">About</a></li>
 						<li><a href="impressum.html">Impressum und Datenschutz</a></li>
 						<li><a class="contact-trigger">Kontakt</a></li>
 					</ul> <!--/ .footer-nav -->
 
-					<div class="copyright">
+					<div class="copyright" style="width: 100%;">
 
                         <p>Copyright: Corporate Happiness® 2020 -</p>
                         <p>E-Mail:</p>
@@ -808,21 +809,21 @@
 
 			<div class="container">
 
-				<div class="row">
+				<div class="row justify-content-center">
 
-					<div class="contact-content col-lg-10 col-lg-offset-1 centered">
+					<div class="contact-content col-lg-10 centered">
 
 						<h2 class="all-caps"> Hinterlassen Sie uns eine Nachricht! </h2>
 
 						<p>Haben Sie noch weitere Fragen? Sind Sie sich unsicher, ob der Kurs der Richtige für Sie ist? Scheuen Sie sich nicht, uns anzusprechen!</p>
 
 						<!-- BEGIN Contact Form -->
-						<div class="col-lg-6 col-lg-offset-3 col-md-6 col-md-offset-3">
+						<div class="col-lg-6 col-md-6">
 
 							<form class="contact-form" id="contact-form" method="post" action="contact">
 								@csrf
 
-								<div class="row">
+								<div class="row justify-content-center">
 
 									<div class="col-lg-6 col-md-6">
 
@@ -944,13 +945,13 @@
 	    <script src="https://ajax.googleapis.com/ajax/libs/jquery/1.11.2/jquery.min.js"></script>
 
 	    <!-- Latest compiled and minified JavaScript -->
-		<script src="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.2/js/bootstrap.min.js"></script>
+		<script src="https://maxcdn.bootstrapcdn.com/bootstrap/4.1.3/js/bootstrap.min.js"></script>
 
 		<!-- SmoothScroll -->
 		<script src="{{ asset('old/js/minified/SmoothScroll.min.js') }}"></script>
 
 		<!-- Classie -->
-		<script src="{{ asset('old/js/minified/classie.min.js') }}"></script>
+        <script src="{{ asset('old/js/minified/classie.min.js') }}"></script>
 
 		<!-- One Page Nav -->
 		<script src="{{ asset('old/js/minified/jquery.nav.min.js') }}"></script>
@@ -1000,7 +1001,7 @@
             <div class="container">
 					<div class="row">
 
-						<div class="col-lg-8 col-lg-offset-2 col-md-8 col-md-offset-2 centered">
+						<div class="col-lg-8 offset-lg-2 col-md-8 offset-md-2 centered">
 
 
 
