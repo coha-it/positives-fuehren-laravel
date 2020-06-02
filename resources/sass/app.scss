@@ -186,6 +186,13 @@ h1, h2, h3, h4, h5
   line-height: 1.75;
 }
 
+.cta-default,
+.cta-stroke {
+  &:after {
+    display: inline-block;
+  }
+}
+
 .section_header {
   font-size: 25px;
   font-size: calc(20px + 1.25vw);
