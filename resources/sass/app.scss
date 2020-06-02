@@ -1,3 +1,7 @@
+html body {
+  background-color: #f4f4f4;
+}
+
 html .hero-subscribe-layout #hero {
   background-color: #303234;
   background-blend-mode: soft-light;
@@ -166,7 +170,6 @@ h1, h2, h3, h4, h5
             }
         }
     }
-
 }
 
 .section-title {
@@ -211,4 +214,10 @@ h1, h2, h3, h4, h5
   position: relative;
   max-width: 1500px;
   margin: auto;
+}
+
+
+main#main-content {
+  box-shadow: 0;
+  box-shadow: unset;
 }

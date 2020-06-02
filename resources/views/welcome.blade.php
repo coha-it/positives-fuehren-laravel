@@ -584,6 +584,11 @@
 
             <section>
                 <div class="container big">
+					<div class="row">
+						<div class="col-lg-8 col-lg-offset-2 col-md-8 col-md-offset-2 centered">
+							<p class="section-title">Referenzen</p>
+						</div>
+					</div>
                     <div class="row equal cohapersons" data-sr="enter bottom over 1s and move 80px wait 0s">
 
 						@php
@@ -733,58 +738,6 @@
 			==========================
 			==/ END PRICING SECTION ==
 			==========================
-			-->
-
-
-
-			<!--
-			=============================
-			== BEGIN SUBSCRIBE SECTION ==
-			=============================
-			-->
-			<section id="subscribe-section" class="breaking" data-stellar-background-ratio="0.5" data-stellar-vertical-offset="200">
-
-				<div class="color-overlay">
-
-					<div class="breaking-content">
-
-						<div class="container">
-							<div class="row">
-
-								<div class="col-lg-3 col-lg-offset-2 col-md-3 col-md-offset-2 col-sm-4 centered">
-
-
-								</div> <!--/ .col-lg-3 -->
-
-								<div class="subscribe-section-content col-lg-5 col-md-5 col-sm-7">
-
-									<!--
-									<h4>Bleiben Sie auf dem Laufenden mit unserem Newsletter!</h4>
-
-									<form id="footer-subscribe" class="the-subscribe-form">
-
-										<div class="input-group">
-											<input type="email" class="form-control" placeholder="Ihre E-Mail-Adresse">
-											<span class="input-group-btn">
-												<button class="btn btn-subscribe all-caps" type="submit">Eintragen</button>
-											</span>
-								        </div>
-
-									</form> --> <!--/ #footer-subscribe -->
-
-								</div> <!--/ .col-lg-5 -->
-
-							</div> <!--/ .row -->
-						</div> <!--/ .container -->
-
-					</div> <!--/ .breaking-content -->
-
-				</div><!--/ .color-overlay -->
-			</section>
-			<!--
-			============================
-			==/ END SUBSCRIBE SECTION ==
-			============================
 			-->
 
 		</main><!--/ #main-content -->
