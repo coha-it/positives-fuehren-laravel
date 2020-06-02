@@ -1,1 +1,173 @@
+html .hero-subscribe-layout #hero {
+  background-color: #303234;
+  background-blend-mode: soft-light;
+}
+
+
+body,
+p,
+h1, h2, h3, h4, h5
+{
+  font-family: "Lato", "ff-tisa-web-pro", "Open Sans", "Helvetica Neue", Helvetica, Arial, "Lucida Grande", sans-serif;
+}
+
+.main_logo_c {
+  min-width: 125px;
+  max-width: 200px;
+  width: 20vw;
+  display: inline-block;
+}
+
+.header-clone .logo img {
+    top: -5px;
+    bottom: 0;
+    width: auto;
+    margin: auto;
+    height: 90%;
+    display: inline-block;
+}
+
+@media (max-width: 738px) {
+  #hero .container {
+      height: inherit;
+  }
+}
+
+.hero-content h1 {
+  text-shadow: 0 2px 30px rgba(125,116,107,.75);
+}
+
+
+.hero-subscribe-layout #hero,
+.creative-layout #hero,
+.event-layout #hero {
+  /* background: url(../images/positives-fuehren.jpg) center center no-repeat; */
+  /* background: url(https://corporatehappiness.s3.eu-central-1.amazonaws.com/positives-fuehren-de/images/positives-fuehren-de-img-resize.jpg) center center no-repeat; */
+  // background: url(https://corporatehappiness.s3.eu-central-1.amazonaws.com/positives-fuehren-de/images/banner/los-gehts.jpg) center center no-repeat;
+  background: url(https://corporatehappiness.s3.eu-central-1.amazonaws.com/positives-fuehren-de/images/banner/change-your-mindset.jpg) center center no-repeat;
+}
+
+
+.price .price-feature,
+.best-value-label {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  align-self: center;
+  flex-flow: column;
+}
+
+.price .price-feature {
+  min-height: 250px;
+}
+.best-value-label {
+  min-height: 50px;
+}
+
+
+@media screen and (min-width: 1200px) {
+  .container.big {
+      width: 90%;
+      max-width: 1400px;
+  }
+}
+
+
+
+
+
 //
+
+.equal {
+    display: flex;
+    display: -webkit-flex;
+    flex-wrap: wrap;
+  }
+
+  @media (min-width: 768px) {
+    .row.equal {
+      display: flex;
+      flex-wrap: wrap;
+    }
+  }
+
+
+.cohapersons {
+
+    .person {
+        &.wrapper {
+            &.outer {
+                padding: 10px;
+            }
+            &.inner {
+                text-align: center;
+            }
+        }
+    }
+
+    .quote {
+        font-size: 23px;
+        font-weight: 700;
+        line-height: 1.25;
+        font-style: italic;
+        padding: 15px 5px;
+        color: #646464;
+        max-width: 350px;
+        margin: auto;
+        // min-height: 250px;
+        // display: flex;
+        // align-items: center;
+        // justify-content: center;
+
+        span {
+
+            position: relative;
+
+            &:after,
+            &:before {
+                position: absolute;
+            }
+
+            &:after {
+                content: "\AB";
+                right: -12px;
+                bottom: 3px;
+            }
+            &:before {
+                content: "\BB";
+                right: 101%;
+                top: 2px;
+            }
+        }
+    }
+
+    img.avatar {
+        transition: 300ms;
+        border-radius: 100%;
+        max-width: 250px;
+        width: 100%;
+    }
+
+    &:hover {
+        & > div {
+            transition: 200ms;
+            &:hover {
+                img.avatar {
+                    transform: scale(1.05);
+                }
+            }
+            &:not(:hover) {
+                opacity: .85;
+                img.avatar {
+                    filter: saturate(0.5);
+                }
+            }
+        }
+    }
+
+}
+
+p.section-title {
+  font-size: 23px;
+  letter-spacing: .1em;
+}

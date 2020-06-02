@@ -30,6 +30,7 @@
 		<link rel="stylesheet" href="{{ asset('old/css/style-responsive-v2.css') }}">
 		<link rel="stylesheet" href="{{ asset('old/css/expandableGallery.css') }}">
 		<link rel="stylesheet" href="{{ asset('old/css/fuehrungskurs.css') }}">
+		<link rel="stylesheet" href="{{ asset('css/app.css') }}">
 		<link rel="stylesheet" href="{{ asset('old/css/custom.css') }}">
 
 	    <!-- HTML5 shim and Respond.js for IE8 support of HTML5 elements and media queries -->
@@ -78,9 +79,9 @@
 			<div class="container">
 				<div class="row">
 
-					<div class="col-lg-12">
+					<div class="col-12 col-xs-12 col-sm-12 col-md-12 col-lg-12 col-xl-12">
 
-						<a href="#0" class="logo main_logo_c"><img src="https://corporatehappiness.s3.eu-central-1.amazonaws.com/positives-fuehren-de/images/logo/corporate-happiness-logo.svg" alt="Urip Logo"></a> <!-- Your Logo -->
+						<a href="#0" class="logo main_logo_c"><img src="https://corporatehappiness.s3.eu-central-1.amazonaws.com/positives-fuehren-de/images/logo/corporate-happiness-logo-white.svg" alt="Urip Logo"></a> <!-- Your Logo -->
 
 						<a href="#0" id="nav-menu-trigger" class="menu-toggle pull-right all-caps">Menu<span class="icon-menu5"></span></a> <!-- Menu Toggle -->
 
@@ -151,7 +152,6 @@
 								<div class="hero-content row centered">
 									<div class="col-lg-12">
 
-
 										<h1
 											class="all-caps text-shadow-medium"
 											data-sr="enter top over 1s and move 50px wait 0.3s"
@@ -160,11 +160,11 @@
 											font-weight: 700;
 											visibility: visible;
 											font-size: calc(40px + 2vw);"
-										
+
 										>
 											Das neue Führen​
 										</h1>
-                                        
+
 									</div> <!--/ .col-lg-12 -->
 								</div> <!--/ .row -->
 								<!-- END Hero Content -->
@@ -219,7 +219,7 @@
 					<div class="row">
 
 						<div class="col-lg-8 col-lg-offset-2 col-md-8 col-md-offset-2 centered">
-							<p class="section-title">Z I E L <span style="margin: 0 10px;">|</span> S O F O R T  U M S E T Z B A R E S  W I S S E N​​</p>
+							<p class="section-title"> ZIEL <span style="margin: 0 10px;">|</span> SOFORT UMSETZBARES WISSEN </p>
 							<h2 class="section-heading">INDIVIDUELLE UND INNOVATIVE LÖSUNGEN IN 7 TAGEN​</h2>
 						</div>
 
@@ -242,7 +242,7 @@
 					<div class="row">
 
 						<div class="col-lg-8 col-lg-offset-2 col-md-8 col-md-offset-2 centered">
-							<p class="section-title">I N H A L T <span style="margin: 0 10px;">|</span> L I V E - S E S S I O N S​</p>
+							<p class="section-title"> INHALT <span style="margin: 0 10px;">|</span> LIVE-SESSIONS </p>
 							<h2 class="section-heading">FÜHRUNGSKRÄFTE-COACHING MIT DR. OLIVER HAAS​</h2>
 						</div>
 
@@ -251,11 +251,11 @@
 						<div class="col-lg-10 col-lg-offset-1">
 							<p>
 								<strong>Führung in und nach der Krise:</strong>
-								Wo stehen Sie gerade? Warum müssen Sie sich ausgerechnet jetzt mit persönlichem Wachstum der Mitarbeiter beschäftigen? Warum müssen Sie jetzt was tun und wo fangen Sie an?​	
+								Wo stehen Sie gerade? Warum müssen Sie sich ausgerechnet jetzt mit persönlichem Wachstum der Mitarbeiter beschäftigen? Warum müssen Sie jetzt was tun und wo fangen Sie an?​
 							</p>
 							<p>
 								<strong>Aufbruchsstimmung im Team erzeugen:</strong>
-								Was brauchen die Mitarbeiter - egal welcher Generation?​ 
+								Was brauchen die Mitarbeiter - egal welcher Generation?​
 								Wie bekommen Sie die Veränderung hin?​
 								Wenn Inspiration nicht auf Anhieb funktioniert – welche Lösungen gibt es?​
 							</p>
@@ -289,25 +289,25 @@
 
 						<div class="col-lg-6 col-md-12 col-sm-12 col-xs-12 col-12">
 							<div class="row">
-						
+
 								<div class="col-lg-8 col-lg-offset-2 col-md-8 col-md-offset-2 centered">
 
 									<p class="section-title">Das Online-Training</p>
-		
+
 									<h2 class="section-heading">Positive Psychologie für Führungskräfte ist ein innovativer Onlinekurs, um einzigartiges Wachstum zu erleben.</h2>
-		
+
 								</div> <!--/ .col-lg-8 -->
-		
+
 								<div class="clearfix"></div>
-		
+
 								<div class="col-lg-10 col-lg-offset-1">
-		
+
 									<p><strong> Positive Psychologie für Führungskräfte</strong> ist ein Onlinekurs, der die Themen Positive Führung und Unternehmensgestaltung mit neusten Erkenntnissen der Positiven Psychologie, Neurowissenschaften und Führungsansätzen verbindet.</p>
-		
+
 								</div><!--/ .col-lg-10 -->
-		
+
 								<div class="clearfix"></div>
-		
+
 							</div>
 						</div>
 
@@ -350,7 +350,7 @@
 									</a>
 
 								</div> <!--/ .the-feature -->
-								
+
 								<div class="clearfix"></div>
 								<!--/ END 1st Row Features -->
 
@@ -418,7 +418,7 @@
 				<div class="container-full">
 					<div class="row">
 
-                        
+
                         <div class="col-lg-8 col-lg-offset-2 col-md-8 col-md-offset-2 centered" style="margin-top: 80px;">
 
 							<p class="section-title">Die Module</p>
@@ -428,8 +428,8 @@
 						</div> <!--/ .col-lg-8 -->
 
 						<div class="clearfix"></div>
-                        
-                        
+
+
 						<!-- BEGIN How it Works Column -->
 						<ul class="how-it-works-col">
 
@@ -478,7 +478,7 @@
 									<h4>Positive Unternehmensgestaltung</h4>
 									<p><strong>Themen:</strong> Einführung in die positive Unternehmensgestaltung, Kohärenzmodell nach Aaron Antonovsky, wirksames Zuhören, Persönlichkeitsentwicklung, Leitbildentwicklung, Ermutigen und Inspirieren, warum Umsetzungsprozesse oftmals scheitern, nachhaltige Umsetzung sichern, Maßnahmenplan, Unterstützung der Corporate Happiness® Botschafter.</p>
 
-								
+
 
 								</div> <!--/ .how-it-works-info -->
 							</li> <!--/ .one-third-col -->
@@ -500,7 +500,7 @@
 								<h3>Ist der Kurs der Richtige für mich?</h3>
 
 								<p>Der Kurs Positive Psychologie für Führungskräfte ist der richtige Kurs für Sie, wenn Sie sich schon einmal eine der folgenden Fragen gestellt haben oder einfach neugierig darauf sind, Neues zu lernen. </p>
-	
+
 								<li>Wie begeistere ich meine Mitarbeiter?</li>
 								<li>Wie fördere ich die Stärken meines Teams?</li>
 								<li>Was sind die Komponenten positiver Führung?</li>
@@ -522,7 +522,7 @@
 					<div class="row">
 						<div class="col-lg-12 col-12 text-center">
 							<a href="https://www.corporate-happiness.de/positive-psychologie-fuer-fuehrungskraefte" target="_blank" class="cta cta-default all-caps xxx_contact-trigger">
-								TERMINE UND BUCHUNG 
+								TERMINE UND BUCHUNG
 							</a>
 						</div>
 					</div>
@@ -554,23 +554,93 @@
 
 						</div><!--/ .col-lg-10 -->
 
-						<div class="clearfix"></div>
+                        <div class="clearfix"></div>
 
-						<a class="cta cta-default all-caps contact-trigger">
-							Kontakt
-						</a>
+                        <div data-sr="enter bottom over 1s and move 80px wait 0.4s">
+                            <a class="cta cta-default all-caps contact-trigger">
+                                Kontakt
+                            </a>
 
-						<br>
-						<br>
+                            <br>
+                            <br>
 
-						<p>E-Mail: <a href="mailto:sales@corporate-happiness.de">sales@corporate-happiness.de</a></p>
+                            <p data-sr="enter bottom over 1s and move 80px wait 0.4s">
+                                E-Mail:
+                                <a href="mailto:sales@corporate-happiness.de">sales@corporate-happiness.de</a>
+                            </p>
+                        </div>
 
 					</div> <!--/ .row -->
 				</div> <!--/ .container -->
 
 			</section>
-            
-            
+
+            <section>
+                <div class="container big">
+                    <div class="row equal cohapersons" data-sr="enter bottom over 1s and move 80px wait 0s">
+
+						@php
+							/*
+								
+								
+								
+								
+							*/
+							$quote_persons = [
+								[
+									'name' => 'Hans-Joachim Scherpel',
+									'quote' => 'Die Corporate Happiness® Ausbildung war meine beste Weiterbildung der letzten 30 Jahre!',
+									'image' => 'hans-joachim-scherpel.jpg'
+								],
+								[
+									'name' => 'Silke Göddertz​',
+									'company' => 'Deutsche Telekom',
+									'quote' => 'Ich hätte nie gedacht, dass so viel Kraft dadurch freigesetzt wird.  ',
+									'image' => 'silke-goeddertz.jpg'
+								],
+								[
+									'name' => 'Anette Farrenkopf​',
+									'company' => 'JobCenter München',
+									'quote' => 'Ich empfehle Führungskräften, sich aktiv zu beteiligen, um Ideen in die Teams zu bringen und die Kulturprojekte besser zu begleiten. ',
+									'image' => 'anette-farrenkopf.jpg'
+								],
+								[
+									'name' => 'Michael Buttgereit',
+									'quote' => 'Wenn sie den Schatz in Ihren MitarbeiterInnen entdecken und freisetzen, entsteht dadurch ein großes Glücksgefühl.',
+									'image' => 'michael-buttgereit.jpg'
+								],
+
+							];
+						@endphp
+
+						@foreach ($quote_persons as $key => $person)
+							<div class="col-lg-3 col-md-6 col-sm-6 col-xs-12" >
+								<div class="person outer wrapper" data-sr="enter bottom over 1s and move 80px wait {{ ($key + 1) * 0.25 }}s">
+									<div class="person inner wrapper">
+										<div class="avatar wrapper">
+											<img
+												class="avatar"
+												src="{{ url('https://corporatehappiness.s3.eu-central-1.amazonaws.com/positives-fuehren-de/images/quotepersons/' . $person['image']) }}"
+											/>
+										</div>
+
+										<div class="quote">
+											<span>{{ $person['quote'] }}</span>
+										</div>
+
+										<div class="name">
+											{{ $person['name'] }}
+										</div>
+									</div>
+								</div>
+							</div>
+						@endforeach
+
+                    </div> <!--/ .row -->
+                </div>
+            </section>
+
+
             <!--
 			===========================
 			== BEGIN PRICING SECTION ==
@@ -593,13 +663,13 @@
 						<!-- BEGIN Pricing Table -->
 						<ul class="pricing">
 
-					
-                            
+
+
               <div class="col-lg-4 col-md-6 centered">
 								<li class="price" data-sr="enter bottom over 1s and move 80px wait 0.4s">
 
 									<h5 class="price-title">Crashkurs</h5>
-									<span class="best-value-label">Crashkurs Krisenmanagement</span>
+									<span class="best-value-label">Führen in Krisenzeiten</span>
 									<div class="price-amount">450 EUR</div>
 									<ul class="price-feature">
 										<li>Im Preis enthalten:</li>
@@ -609,10 +679,10 @@
 									</ul> <!--/ .price-feature -->
 									<a href="https://www.corporate-happiness.de/krisenmangementkurs-mit-dr.-oliver-haas" target="_blank" class="price-button all-caps">Jetzt kaufen</a>
 
-								 
+
                                 </li> <!--/ .price -->
 							</div>
-						    
+
               <div class="col-lg-4 col-md-6 centered">
 								<li class="price" data-sr="enter bottom over 1s and move 80px wait 0.4s">
 
@@ -627,11 +697,11 @@
 									</ul> <!--/ .price-feature -->
 									<a href="https://www.corporate-happiness.de/online-fuehrungskraeftekurs" target="_blank" class="price-button all-caps">Jetzt kaufen</a>
 
-								 
+
                                 </li> <!--/ .price -->
 							</div>
 
-                         
+
               <div class="col-lg-4 col-md-6 centered">
 								<li class="price" data-sr="enter bottom over 1s and move 80px wait 0.4s">
 
@@ -646,10 +716,10 @@
 									</ul> <!--/ .price-feature -->
 									<a href="https://www.corporate-happiness.de/shop" target="_blank" class="price-button all-caps">Jetzt kaufen</a>
 
-								 
+
                                 </li> <!--/ .price -->
 							</div>
-                       
+
 
 						</ul> <!--/ .pricing -->
 						<!--/ END Pricing Table -->
@@ -664,7 +734,7 @@
 			==========================
 			-->
 
-            
+
 
 			<!--
 			=============================
@@ -682,12 +752,12 @@
 
 								<div class="col-lg-3 col-lg-offset-2 col-md-3 col-md-offset-2 col-sm-4 centered">
 
-									
+
 								</div> <!--/ .col-lg-3 -->
 
 								<div class="subscribe-section-content col-lg-5 col-md-5 col-sm-7">
 
-									<!-- 
+									<!--
 									<h4>Bleiben Sie auf dem Laufenden mit unserem Newsletter!</h4>
 
 									<form id="footer-subscribe" class="the-subscribe-form">
@@ -733,7 +803,7 @@
 
 			<div class="container">
 				<div class="row">
-                    
+
 					<ul class="footer-nav all-caps">
 						<li><a href="https://www.corporate-happiness.de" target="_blank">About</a></li>
 						<li><a href="impressum.html">Impressum und Datenschutz</a></li>
@@ -747,7 +817,7 @@
                         <p><a href="mailto:info@corporate-happiness.de">info@corporate-happiness.de</a></p>
                         <p>- Telefon: 089 – 890 673 177 -</p>
                         <p>Corporate Happiness® ist eine eingetragene Marke der Corporate Happiness GmbH</p>
-                        
+
 
 					</div> <!--/ .copyright -->
 
@@ -963,29 +1033,29 @@
 		<!-- Expandable Navigation Menu -->
 		<script src="{{ asset('old/js/minified/expandableNav.min.js') }}"></script>
 
-        
+
    <!--
 		======================================
 		== BEGIN IMPRESSUM CONTENT ==
 		======================================
 		-->
 		<!-- BEGIN Impressum und Datenschutz -->
-        
+
         <section id="impressum" class="centered">
-            
+
             <div class="container">
 					<div class="row">
 
 						<div class="col-lg-8 col-lg-offset-2 col-md-8 col-md-offset-2 centered">
 
-						
 
-				
+
+
 
 						</div> <!--/ .col-lg-8 -->
-                        
 
-	
+
+
 	</div> <!--/ #success-notification -->
 		<!-- END Impressum und Datenschutz -->
 		<!--
@@ -994,9 +1064,9 @@
 		=====================================
 		-->
 
-	
-        
-        
+
+
+
 			</div><!-- close .*-inner (main-content or sidebar, depending if sidebar is used) -->
 		</div><!-- close .row -->
 	</div><!-- close .container -->
