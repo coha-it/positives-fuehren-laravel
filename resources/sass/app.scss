@@ -1,12 +1,19 @@
-html body {
-  background-color: #f4f4f4;
-}
+html {
 
-html .hero-subscribe-layout #hero {
-  background-color: #303234;
-  background-blend-mode: soft-light;
-}
+  body {
+    background-color: #f4f4f4;
+  }
 
+  .hero-subscribe-layout #hero {
+    background-color: #303234;
+    background-blend-mode: soft-light;
+    min-height: 500px;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    align-self: center;
+  }
+}
 
 body,
 p,
@@ -176,27 +183,33 @@ h1, h2, h3, h4, h5
   font-size: 23px;
   letter-spacing: .1em;
   margin-top: 50px;
+  line-height: 1.75;
 }
 
 .section_header {
-    font-size: 33px;
-    text-transform: uppercase;
-    letter-spacing: 0.1em;
-    color: black;
-    font-weight: 900;
-    position: absolute;
-    left: 15px;
-    line-height: 1;
-    top: -26px;
-    background: #fff;
-    background: #fbfbfb;
+  font-size: 25px;
+  font-size: calc(20px + 1.25vw);
+  text-align: left;
+  padding: 0 0px;
+  text-transform: uppercase;
+  letter-spacing: 0.1em;
+  color: black;
+  font-weight: 900;
+  position: absolute;
+  left: 5px;
+  line-height: 1;
+  top: 0;
+  transform: translateY(-70%);
+  background: #fff;
+  background: #fbfbfb;
 }
+
 
 .section_outer {
   position: relative;
   background: #fbfbfb;
-  padding-right: 25px;
-  padding-left: 25px;
+  padding-right: 3vw;
+  padding-left: 3vw;
 
     &.white {
         background: #fff;
@@ -220,4 +233,22 @@ h1, h2, h3, h4, h5
 main#main-content {
   box-shadow: 0;
   box-shadow: unset;
+}
+
+@media (min-width: 1600px) {
+  .section_outer {
+    padding-left: 25px;
+    padding-right: 25px;
+  }
+  .section_header {
+      font-size: 33px;
+  }
+}
+
+@media (max-width: 450px) { 
+  .section_header {
+      width: 100%;
+      transform: translateY(-125%);
+      text-align: center;
+  }
 }

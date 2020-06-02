@@ -265,7 +265,7 @@
     								Welche Themen werden uns künftig beschäftigen?​
     								Was bedeutet das wirtschaftlich für Ihr Unternehmen?​
     								Wie können Sie eine Kultur in Krisenzeiten erfolgreich initiieren?​
-    								Warum müssen Sie jetzt als Führungskraft/Unternehmen/Peronal-Entwickler handeln?​
+    								Warum müssen Sie jetzt als Führungskraft/ Unternehmen/ Peronal-Entwickler handeln?​
     							</p>
     						</div>
 
