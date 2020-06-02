@@ -667,49 +667,49 @@
 
 						<div class="clearfix"></div>
 
-						<!-- BEGIN Pricing Table -->
-						<ul class="pricing row">
+                    </div> <!--/ .row -->
+
+                        <!-- BEGIN Pricing Table -->
+						<ul class="pricing row justify-content-center">
+
+                            <div class="col-lg-4 col-md-6 col-sm-12 col-xs-12 col-12 centered">
+                                                <li class="price" data-sr="enter bottom over 1s and move 80px wait 0.4s">
+
+                                                    <h5 class="price-title">Crashkurs</h5>
+                                                    <span class="best-value-label">Führen in Krisenzeiten</span>
+                                                    <div class="price-amount">450 EUR</div>
+                                                    <ul class="price-feature">
+                                                        <li>Im Preis enthalten:</li>
+                                                        <li>3 Live Web-Sessions mit Dr. Oliver Haas innerhalb einer Woche</li>
+                                                        <li>Aufzeichnung der Sessions zum wiederholten anschauen</li>
+                                                        <li>Teilnehmer können individuelle Themen einbringen​</li>
+                                                    </ul> <!--/ .price-feature -->
+                                                    <a href="https://www.corporate-happiness.de/krisenmangementkurs-mit-dr.-oliver-haas" target="_blank" class="price-button all-caps">Jetzt kaufen</a>
 
 
+                                                </li> <!--/ .price -->
+                                            </div>
 
-              <div class="col-lg-4 col-md-6 centered">
-								<li class="price" data-sr="enter bottom over 1s and move 80px wait 0.4s">
+                            <div class="col-lg-4 col-md-6 col-sm-12 col-xs-12 col-12 centered">
+                                                <li class="price" data-sr="enter bottom over 1s and move 80px wait 0.4s">
 
-									<h5 class="price-title">Crashkurs</h5>
-									<span class="best-value-label">Führen in Krisenzeiten</span>
-									<div class="price-amount">450 EUR</div>
-									<ul class="price-feature">
-										<li>Im Preis enthalten:</li>
-										<li>3 Live Web-Sessions mit Dr. Oliver Haas innerhalb einer Woche</li>
-										<li>Aufzeichnung der Sessions zum wiederholten anschauen</li>
-										<li>Teilnehmer können individuelle Themen einbringen​</li>
-									</ul> <!--/ .price-feature -->
-									<a href="https://www.corporate-happiness.de/krisenmangementkurs-mit-dr.-oliver-haas" target="_blank" class="price-button all-caps">Jetzt kaufen</a>
-
-
-                                </li> <!--/ .price -->
-							</div>
-
-              <div class="col-lg-4 col-md-6 centered">
-								<li class="price" data-sr="enter bottom over 1s and move 80px wait 0.4s">
-
-									<h5 class="price-title">Online-Training</h5>
-									<span class="best-value-label">Positive Psychologie für Führungskräfte</span>
-									<div class="price-amount">950 EUR</div>
-									<ul class="price-feature">
-										<li>Im Preis enthalten:</li>
-										<li>3 Monate Zugang zur Online-Lernplattform</li>
-										<li>Willkommenspaket im Wert von 100 Euro</li>
-										<li>Neue Erkenntnisse, mehr Spaß bei der Arbeit, Persönlichkeitsentwicklung</li>
-									</ul> <!--/ .price-feature -->
-									<a href="https://www.corporate-happiness.de/online-fuehrungskraeftekurs" target="_blank" class="price-button all-caps">Jetzt kaufen</a>
+                                                    <h5 class="price-title">Online-Training</h5>
+                                                    <span class="best-value-label">Positive Psychologie für Führungskräfte</span>
+                                                    <div class="price-amount">950 EUR</div>
+                                                    <ul class="price-feature">
+                                                        <li>Im Preis enthalten:</li>
+                                                        <li>3 Monate Zugang zur Online-Lernplattform</li>
+                                                        <li>Willkommenspaket im Wert von 100 Euro</li>
+                                                        <li>Neue Erkenntnisse, mehr Spaß bei der Arbeit, Persönlichkeitsentwicklung</li>
+                                                    </ul> <!--/ .price-feature -->
+                                                    <a href="https://www.corporate-happiness.de/online-fuehrungskraeftekurs" target="_blank" class="price-button all-caps">Jetzt kaufen</a>
 
 
-                                </li> <!--/ .price -->
-							</div>
+                                                </li> <!--/ .price -->
+                                            </div>
 
 
-              <div class="col-lg-4 col-md-6 centered">
+                            <div class="col-lg-4 col-md-6 col-sm-12 col-xs-12 col-12 centered">
 								<li class="price" data-sr="enter bottom over 1s and move 80px wait 0.4s">
 
 									<h5 class="price-title">Intensivseminar</h5>
@@ -727,11 +727,8 @@
                                 </li> <!--/ .price -->
 							</div>
 
-
 						</ul> <!--/ .pricing -->
 						<!--/ END Pricing Table -->
-
-					</div> <!--/ .row -->
 				</div> <!--/ .container -->
 
 			</section>

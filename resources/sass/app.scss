@@ -179,6 +179,12 @@ h1, h2, h3, h4, h5
     }
 }
 
+.price {
+    .price-amount {
+        white-space: break-spaces;
+    }
+}
+
 .section-title {
   font-size: 23px;
   letter-spacing: .1em;
