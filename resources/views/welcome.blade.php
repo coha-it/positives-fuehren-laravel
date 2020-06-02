@@ -189,215 +189,215 @@
 			== BEGIN INTRODUCTION SECTION ==
 			==============================
 			-->
-			<section id="crashkurs" class="centered">
+			<section id="crashkurs" class="centered section_outer">
+                <div class="section_inner">
+                    <div class="section_header">Der Crashkurs​</div>
+    				<div class="container">
+    					<div class="row">
 
-				<div class="container">
-					<div class="row">
+    						<div class="col-lg-8 col-lg-offset-2 col-md-8 col-md-offset-2 centered">
 
-						<div class="col-lg-8 col-lg-offset-2 col-md-8 col-md-offset-2 centered">
+    							<h2 class="section-heading">FÜHREN IN KRISENZEITEN WAS JETZT WIRKLICH WICHTIG IST</h2>
 
-							<p class="section-title">Der Crashkurs​</p>
+    						</div> <!--/ .col-lg-8 -->
 
-							<h2 class="section-heading">FÜHREN IN KRISENZEITEN WAS JETZT WIRKLICH WICHTIG IST</h2>
+    						<div class="clearfix"></div>
 
-						</div> <!--/ .col-lg-8 -->
+    						<div class="col-lg-10 col-lg-offset-1">
 
-						<div class="clearfix"></div>
+    							<p>
+    								Führung war selten so anspruchsvoll wie in diesen Tagen. Mitarbeiter kommen verunsichert und mit vielen Fragen aus dem Homeoffice. Das eigene Geschäftsmodell bedarf einer Überprüfung für die Zeit nach Corona. Digitalisierung und Fachkräftemangel und Generation Y komplettieren den Anspruch, das Unternehmen zukunftssicher zu führen. Sind Sie auch nachdenklich in diesen Tagen? Jedes Unternehmen braucht jetzt eine Aufbruchsstimmung und eine starke Arbeitgebermarke. Dies wird nur mit kreativen und agilen Mitarbeiter gelingen. Wie Sie das schaffen und Ihr Unternehmen bzw. Ihre Abteilung zukunftssicher aufstellen, erfahren Sie in diesem Kurs.​
+    							</p>
 
-						<div class="col-lg-10 col-lg-offset-1">
+    						</div><!--/ .col-lg-10 -->
 
-							<p>
-								Führung war selten so anspruchsvoll wie in diesen Tagen. Mitarbeiter kommen verunsichert und mit vielen Fragen aus dem Homeoffice. Das eigene Geschäftsmodell bedarf einer Überprüfung für die Zeit nach Corona. Digitalisierung und Fachkräftemangel und Generation Y komplettieren den Anspruch, das Unternehmen zukunftssicher zu führen. Sind Sie auch nachdenklich in diesen Tagen? Jedes Unternehmen braucht jetzt eine Aufbruchsstimmung und eine starke Arbeitgebermarke. Dies wird nur mit kreativen und agilen Mitarbeiter gelingen. Wie Sie das schaffen und Ihr Unternehmen bzw. Ihre Abteilung zukunftssicher aufstellen, erfahren Sie in diesem Kurs.​
-							</p>
+    						<div class="clearfix"></div>
 
-						</div><!--/ .col-lg-10 -->
+    					</div>
 
-						<div class="clearfix"></div>
+    					<div class="row">
 
-					</div>
+    						<div class="col-lg-8 col-lg-offset-2 col-md-8 col-md-offset-2 centered">
+    							<p class="section-title"> ZIEL <span style="margin: 0 10px;">|</span> SOFORT UMSETZBARES WISSEN </p>
+    							<h2 class="section-heading">INDIVIDUELLE UND INNOVATIVE LÖSUNGEN IN 7 TAGEN​</h2>
+    						</div>
 
-					<div class="row">
+    						<div class="clearfix"></div>
 
-						<div class="col-lg-8 col-lg-offset-2 col-md-8 col-md-offset-2 centered">
-							<p class="section-title"> ZIEL <span style="margin: 0 10px;">|</span> SOFORT UMSETZBARES WISSEN </p>
-							<h2 class="section-heading">INDIVIDUELLE UND INNOVATIVE LÖSUNGEN IN 7 TAGEN​</h2>
-						</div>
+    						<div class="col-lg-10 col-lg-offset-1">
+    							<p>
+    								Nach diesem Kurs verstehen Sie, warum Sie die Performance Ihrer Mitarbeiter vernichten, wenn Sie sie motivieren und kontrollieren. Denn was Ihre Mitarbeiter jetzt wirklich brauchen ist, etwas ganz anderes. Lernen Sie, was die Stellschrauben für Performance und Kultur sind, damit Wertschätzung zu Wertschöpfung führt. Ihre Mitarbeiter sind Ihr Kapital und ohne sie werden Sie in Zukunft nicht wettbewerbsfähig sein.​
+    							</p>
+    						</div>
 
-						<div class="clearfix"></div>
+    						<div class="clearfix"></div>
 
-						<div class="col-lg-10 col-lg-offset-1">
-							<p>
-								Nach diesem Kurs verstehen Sie, warum Sie die Performance Ihrer Mitarbeiter vernichten, wenn Sie sie motivieren und kontrollieren. Denn was Ihre Mitarbeiter jetzt wirklich brauchen ist, etwas ganz anderes. Lernen Sie, was die Stellschrauben für Performance und Kultur sind, damit Wertschätzung zu Wertschöpfung führt. Ihre Mitarbeiter sind Ihr Kapital und ohne sie werden Sie in Zukunft nicht wettbewerbsfähig sein.​
-							</p>
-						</div>
+    						<a href="https://www.corporate-happiness.de/positive-psychologie-fuer-fuehrungskraefte" class="cta cta-default all-caps xxx_contact-trigger">Neugierig geworden?</a>
+    						<br><br><br>
 
-						<div class="clearfix"></div>
-
-						<a href="https://www.corporate-happiness.de/positive-psychologie-fuer-fuehrungskraefte" class="cta cta-default all-caps xxx_contact-trigger">Neugierig geworden?</a>
-						<br><br><br>
-
-					</div>
+    					</div>
 
 
-					<div class="row">
+    					<div class="row">
 
-						<div class="col-lg-8 col-lg-offset-2 col-md-8 col-md-offset-2 centered">
-							<p class="section-title"> INHALT <span style="margin: 0 10px;">|</span> LIVE-SESSIONS </p>
-							<h2 class="section-heading">FÜHRUNGSKRÄFTE-COACHING MIT DR. OLIVER HAAS​</h2>
-						</div>
+    						<div class="col-lg-8 col-lg-offset-2 col-md-8 col-md-offset-2 centered">
+    							<p class="section-title"> INHALT <span style="margin: 0 10px;">|</span> LIVE-SESSIONS </p>
+    							<h2 class="section-heading">FÜHRUNGSKRÄFTE-COACHING MIT DR. OLIVER HAAS​</h2>
+    						</div>
 
-						<div class="clearfix"></div>
+    						<div class="clearfix"></div>
 
-						<div class="col-lg-10 col-lg-offset-1">
-							<p>
-								<strong>Führung in und nach der Krise:</strong>
-								Wo stehen Sie gerade? Warum müssen Sie sich ausgerechnet jetzt mit persönlichem Wachstum der Mitarbeiter beschäftigen? Warum müssen Sie jetzt was tun und wo fangen Sie an?​
-							</p>
-							<p>
-								<strong>Aufbruchsstimmung im Team erzeugen:</strong>
-								Was brauchen die Mitarbeiter - egal welcher Generation?​
-								Wie bekommen Sie die Veränderung hin?​
-								Wenn Inspiration nicht auf Anhieb funktioniert – welche Lösungen gibt es?​
-							</p>
-							<p>
-								<strong>Erfolgsfaktor Unternehmenskultur:</strong>
-								Welche Themen werden uns künftig beschäftigen?​
-								Was bedeutet das wirtschaftlich für Ihr Unternehmen?​
-								Wie können Sie eine Kultur in Krisenzeiten erfolgreich initiieren?​
-								Warum müssen Sie jetzt als Führungskraft/Unternehmen/Peronal-Entwickler handeln?​
-							</p>
-						</div>
+    						<div class="col-lg-10 col-lg-offset-1">
+    							<p>
+    								<strong>Führung in und nach der Krise:</strong>
+    								Wo stehen Sie gerade? Warum müssen Sie sich ausgerechnet jetzt mit persönlichem Wachstum der Mitarbeiter beschäftigen? Warum müssen Sie jetzt was tun und wo fangen Sie an?​
+    							</p>
+    							<p>
+    								<strong>Aufbruchsstimmung im Team erzeugen:</strong>
+    								Was brauchen die Mitarbeiter - egal welcher Generation?​
+    								Wie bekommen Sie die Veränderung hin?​
+    								Wenn Inspiration nicht auf Anhieb funktioniert – welche Lösungen gibt es?​
+    							</p>
+    							<p>
+    								<strong>Erfolgsfaktor Unternehmenskultur:</strong>
+    								Welche Themen werden uns künftig beschäftigen?​
+    								Was bedeutet das wirtschaftlich für Ihr Unternehmen?​
+    								Wie können Sie eine Kultur in Krisenzeiten erfolgreich initiieren?​
+    								Warum müssen Sie jetzt als Führungskraft/Unternehmen/Peronal-Entwickler handeln?​
+    							</p>
+    						</div>
 
-						<div class="clearfix"></div>
+    						<div class="clearfix"></div>
 
-						<a href="https://www.corporate-happiness.de/termine" class="cta cta-default all-caps xxx_contact-trigger">
-							Termine
-						</a>
-						<br><br><br>
+    						<a href="https://www.corporate-happiness.de/termine" class="cta cta-default all-caps xxx_contact-trigger">
+    							Termine
+    						</a>
+    						<br><br><br>
 
-					</div>
+    					</div>
 
-				</div>
-
+    				</div>
+                </div>
 			</section>
 
 
-			<section id="onlinetraining" class="centered">
+			<section id="onlinetraining" class="centered section_outer">
+                <div class="section_inner">
+                    <div class="section_header">
+                        Das Online-Training
+                    </div>
+    				<div class="container-full">
+    					<div class="row">
 
-				<div class="container-full">
-					<div class="row">
+    						<div class="col-lg-6 col-md-12 col-sm-12 col-xs-12 col-12">
+    							<div class="row">
 
-						<div class="col-lg-6 col-md-12 col-sm-12 col-xs-12 col-12">
-							<div class="row">
+    								<div class="col-lg-8 col-lg-offset-2 col-md-8 col-md-offset-2 centered">
 
-								<div class="col-lg-8 col-lg-offset-2 col-md-8 col-md-offset-2 centered">
+    									<h2 class="section-heading">Positive Psychologie für Führungskräfte ist ein innovativer Onlinekurs, um einzigartiges Wachstum zu erleben.</h2>
 
-									<p class="section-title">Das Online-Training</p>
+    								</div> <!--/ .col-lg-8 -->
 
-									<h2 class="section-heading">Positive Psychologie für Führungskräfte ist ein innovativer Onlinekurs, um einzigartiges Wachstum zu erleben.</h2>
+    								<div class="clearfix"></div>
 
-								</div> <!--/ .col-lg-8 -->
+    								<div class="col-lg-10 col-lg-offset-1">
 
-								<div class="clearfix"></div>
+    									<p><strong> Positive Psychologie für Führungskräfte</strong> ist ein Onlinekurs, der die Themen Positive Führung und Unternehmensgestaltung mit neusten Erkenntnissen der Positiven Psychologie, Neurowissenschaften und Führungsansätzen verbindet.</p>
 
-								<div class="col-lg-10 col-lg-offset-1">
+    								</div><!--/ .col-lg-10 -->
 
-									<p><strong> Positive Psychologie für Führungskräfte</strong> ist ein Onlinekurs, der die Themen Positive Führung und Unternehmensgestaltung mit neusten Erkenntnissen der Positiven Psychologie, Neurowissenschaften und Führungsansätzen verbindet.</p>
+    								<div class="clearfix"></div>
 
-								</div><!--/ .col-lg-10 -->
+    							</div>
+    						</div>
 
-								<div class="clearfix"></div>
+    						<div class="col-lg-6 col-md-12 col-sm-12 col-xs-12 col-12">
+    							<div class="row">
 
-							</div>
-						</div>
+    								<!-- BEGIN 1st Row Features -->
+    								<div class="the-feature col-lg-4 col-md-4 col-sm-6">
 
-						<div class="col-lg-6 col-md-12 col-sm-12 col-xs-12 col-12">
-							<div class="row">
+    									<a href="#0">
+    										<span class="feature-icon icon-clock3"></span>
 
-								<!-- BEGIN 1st Row Features -->
-								<div class="the-feature col-lg-4 col-md-4 col-sm-6">
+    										<h4 class="feature-title">Zeitlich flexibel</h4>
 
-									<a href="#0">
-										<span class="feature-icon icon-clock3"></span>
+    										<p>Überall und jederzeit verfügbar. In nur sechs Wochen – und ohne die Bindung an Workshop Zeiten oder Präsenztermine – können Sie den Online-Kurs absolvieren!</p>
+    									</a>
 
-										<h4 class="feature-title">Zeitlich flexibel</h4>
+    								</div> <!--/ .the-feature -->
 
-										<p>Überall und jederzeit verfügbar. In nur sechs Wochen – und ohne die Bindung an Workshop Zeiten oder Präsenztermine – können Sie den Online-Kurs absolvieren!</p>
-									</a>
+    								<div class="the-feature col-lg-4 col-md-4 col-sm-6">
 
-								</div> <!--/ .the-feature -->
+    									<a href="#0">
+    										<span class="feature-icon icon-happy3"></span>
 
-								<div class="the-feature col-lg-4 col-md-4 col-sm-6">
+    										<h4 class="feature-title">Voller Inspiration</h4>
 
-									<a href="#0">
-										<span class="feature-icon icon-happy3"></span>
+    										<p>Durch motivierende und außergewöhnliche Umsetzungsbeispiele aus der Praxis werden die Zusammenhänge zwischen Positiver Psychologie, Führungsaufgaben und heutiger Arbeitswelt für Sie greifbar.</p>
+    									</a>
 
-										<h4 class="feature-title">Voller Inspiration</h4>
+    								</div> <!--/ .the-feature -->
 
-										<p>Durch motivierende und außergewöhnliche Umsetzungsbeispiele aus der Praxis werden die Zusammenhänge zwischen Positiver Psychologie, Führungsaufgaben und heutiger Arbeitswelt für Sie greifbar.</p>
-									</a>
+    								<div class="the-feature col-lg-4 col-md-4 col-sm-6">
 
-								</div> <!--/ .the-feature -->
+    									<a href="#0">
+    										<span class="feature-icon icon-lightbulb"></span>
 
-								<div class="the-feature col-lg-4 col-md-4 col-sm-6">
+    										<h4 class="feature-title">Innovative Ideen</h4>
 
-									<a href="#0">
-										<span class="feature-icon icon-lightbulb"></span>
+    										<p>Der Kurs bietet einen umfassenden Überblick zu den Themen Positive Psychologie, positive Führung und positive Unternehmensgestaltung. Die neusten Forschungserkenntnisse haben wir für Sie in Alltagssprache übersetzt.</p>
+    									</a>
 
-										<h4 class="feature-title">Innovative Ideen</h4>
+    								</div> <!--/ .the-feature -->
 
-										<p>Der Kurs bietet einen umfassenden Überblick zu den Themen Positive Psychologie, positive Führung und positive Unternehmensgestaltung. Die neusten Forschungserkenntnisse haben wir für Sie in Alltagssprache übersetzt.</p>
-									</a>
-
-								</div> <!--/ .the-feature -->
-
-								<div class="clearfix"></div>
-								<!--/ END 1st Row Features -->
+    								<div class="clearfix"></div>
+    								<!--/ END 1st Row Features -->
 
 
-								<!-- BEGIN 2nd Row Features -->
-								<div class="the-feature zero-bottom col-lg-4 col-md-4 col-sm-6">
+    								<!-- BEGIN 2nd Row Features -->
+    								<div class="the-feature zero-bottom col-lg-4 col-md-4 col-sm-6">
 
-									<a href="#0">
-										<span class="feature-icon icon-film"></span>
+    									<a href="#0">
+    										<span class="feature-icon icon-film"></span>
 
-										<h4 class="feature-title">5+ Stunden Videomaterial</h4>
+    										<h4 class="feature-title">5+ Stunden Videomaterial</h4>
 
-										<p>Der Kurs hält über 5 Stunden Videomaterial für Sie bereit - aufgeteilt in kurze Videoeinheiten zwischen 5 und 15 Minuten.</p>
-									</a>
+    										<p>Der Kurs hält über 5 Stunden Videomaterial für Sie bereit - aufgeteilt in kurze Videoeinheiten zwischen 5 und 15 Minuten.</p>
+    									</a>
 
-								</div> <!--/ .the-feature -->
+    								</div> <!--/ .the-feature -->
 
-								<div class="the-feature zero-bottom col-lg-4 col-md-4 col-sm-6">
+    								<div class="the-feature zero-bottom col-lg-4 col-md-4 col-sm-6">
 
-									<a href="#0">
-										<span class="feature-icon icon-stack2"></span>
+    									<a href="#0">
+    										<span class="feature-icon icon-stack2"></span>
 
-										<h4 class="feature-title">Praxisorientiert</h4>
+    										<h4 class="feature-title">Praxisorientiert</h4>
 
-										<p>Anhand von zahlreichen Reflektionsfragen, Übungen und Leitfäden können Sie die gelernten Inhalte direkt bei sich, Ihren Mitarbeitern und in Ihrem Unternehmen umsetzen.</p>
-									</a>
+    										<p>Anhand von zahlreichen Reflektionsfragen, Übungen und Leitfäden können Sie die gelernten Inhalte direkt bei sich, Ihren Mitarbeitern und in Ihrem Unternehmen umsetzen.</p>
+    									</a>
 
-								</div> <!--/ .the-feature -->
+    								</div> <!--/ .the-feature -->
 
-								<div class="the-feature zero-bottom col-lg-4 col-md-4 col-sm-6">
+    								<div class="the-feature zero-bottom col-lg-4 col-md-4 col-sm-6">
 
-									<a href="#0">
-										<span class="feature-icon icon-trophy3"></span>
+    									<a href="#0">
+    										<span class="feature-icon icon-trophy3"></span>
 
-										<h4 class="feature-title">Sichtbare Ergebnisse</h4>
+    										<h4 class="feature-title">Sichtbare Ergebnisse</h4>
 
-										<p>Weniger Stress bei den Führungsaufgaben? Zufriedenere Mitarbeiter? Eine bessere Stimmung im Team? In nur wenigen Wochen werden positive Veränderungen spürbar. Überzeugen Sie sich selbst! </p>
-									</a>
+    										<p>Weniger Stress bei den Führungsaufgaben? Zufriedenere Mitarbeiter? Eine bessere Stimmung im Team? In nur wenigen Wochen werden positive Veränderungen spürbar. Überzeugen Sie sich selbst! </p>
+    									</a>
 
-								</div> <!--/ .the-feature -->
-								<!--/ END 2nd Row Features -->
-							</div>
-						</div>
+    								</div> <!--/ .the-feature -->
+    								<!--/ END 2nd Row Features -->
+    							</div>
+    						</div>
 
-					</div> <!--/ .row -->
-				</div> <!--/ .container -->
-
+    					</div> <!--/ .row -->
+    				</div> <!--/ .container -->
+                </div>
 			</section>
 
 
@@ -531,48 +531,49 @@
 
 
 
-			<section id="intensivseminar" class="centered">
+			<section id="intensivseminar" class="centered section_outer">
+                <div class="section_inner">
+                    <div class="section_header">
+                        Das Intensivseminar​
+                    </div>
+                    <div class="container">
+                        <div class="row">
 
-				<div class="container">
-					<div class="row">
+                            <div class="col-lg-8 col-lg-offset-2 col-md-8 col-md-offset-2 centered">
 
-						<div class="col-lg-8 col-lg-offset-2 col-md-8 col-md-offset-2 centered">
+                                <h2 class="section-heading">In unserem virtuellen Intensivseminar für Unternehmer, Führungskräfte und Personalentwickler</h2>
 
-							<p class="section-title">Das Intensivseminar​</p>
+                            </div> <!--/ .col-lg-8 -->
 
-							<h2 class="section-heading">In unserem virtuellen Intensivseminar für Unternehmer, Führungskräfte und Personalentwickler</h2>
+                            <div class="clearfix"></div>
 
-						</div> <!--/ .col-lg-8 -->
+                            <div class="col-lg-10 col-lg-offset-1">
 
-						<div class="clearfix"></div>
+                                <p>
+                                    erleben Sie die enge verzahnung zwischen Theorie und Praxis. Aufbauend auf unserem oben beschriebenen Onlinekurs, werden wir die Themen anhand von konkreten Unternehmensbeispielen vertiefen und die ganz persönlichen Herausforderungen Ihres Unternehmens besprechen. Dazu werden wir auch immer wieder Interviewpartner hinzuschalten, die Ihnen von Ihren Erfahrungen berichten und für Fragen zur Verfügung stellen.​ Termine und weitere Infos folgen in Kürze. ​
+                                </p>
 
-						<div class="col-lg-10 col-lg-offset-1">
+                            </div><!--/ .col-lg-10 -->
 
-							<p>
-								erleben Sie die enge verzahnung zwischen Theorie und Praxis. Aufbauend auf unserem oben beschriebenen Onlinekurs, werden wir die Themen anhand von konkreten Unternehmensbeispielen vertiefen und die ganz persönlichen Herausforderungen Ihres Unternehmens besprechen. Dazu werden wir auch immer wieder Interviewpartner hinzuschalten, die Ihnen von Ihren Erfahrungen berichten und für Fragen zur Verfügung stellen.​ Termine und weitere Infos folgen in Kürze. ​
-							</p>
+                            <div class="clearfix"></div>
 
-						</div><!--/ .col-lg-10 -->
+                            <div data-sr="enter bottom over 1s and move 80px wait 0.4s">
+                                <a class="cta cta-default all-caps contact-trigger">
+                                    Kontakt
+                                </a>
 
-                        <div class="clearfix"></div>
+                                <br>
+                                <br>
 
-                        <div data-sr="enter bottom over 1s and move 80px wait 0.4s">
-                            <a class="cta cta-default all-caps contact-trigger">
-                                Kontakt
-                            </a>
+                                <p data-sr="enter bottom over 1s and move 80px wait 0.4s">
+                                    E-Mail:
+                                    <a href="mailto:sales@corporate-happiness.de">sales@corporate-happiness.de</a>
+                                </p>
+                            </div>
 
-                            <br>
-                            <br>
-
-                            <p data-sr="enter bottom over 1s and move 80px wait 0.4s">
-                                E-Mail:
-                                <a href="mailto:sales@corporate-happiness.de">sales@corporate-happiness.de</a>
-                            </p>
-                        </div>
-
-					</div> <!--/ .row -->
-				</div> <!--/ .container -->
-
+                        </div> <!--/ .row -->
+                    </div> <!--/ .container -->
+                </div>
 			</section>
 
             <section>
@@ -580,12 +581,6 @@
                     <div class="row equal cohapersons" data-sr="enter bottom over 1s and move 80px wait 0s">
 
 						@php
-							/*
-								
-								
-								
-								
-							*/
 							$quote_persons = [
 								[
 									'name' => 'Hans-Joachim Scherpel',

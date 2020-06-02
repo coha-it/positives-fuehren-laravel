@@ -171,3 +171,38 @@ p.section-title {
   font-size: 23px;
   letter-spacing: .1em;
 }
+
+.section_header {
+    font-size: 33px;
+    text-transform: uppercase;
+    letter-spacing: 0.1em;
+    color: black;
+    font-weight: 900;
+    position: absolute;
+    left: 15px;
+    line-height: 1;
+    top: -26px;
+    background: #fff;
+    background: #fbfbfb;
+}
+
+.section_outer {
+    position: relative;
+    background: #fbfbfb;
+
+    &.white {
+        background: #fff;
+    }
+
+    &.grey {
+        background: #fbfbfb;
+    }
+}
+
+.section_inner {
+    background: #fff;
+    border: 1px solid black;
+    margin: 0 25px;
+    padding: 25px 0;
+    position: relative;
+}
