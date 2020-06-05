@@ -185,11 +185,29 @@ h1, h2, h3, h4, h5
     }
 }
 
+h4 {
+    line-height: 1.25;
+    margin-bottom: 10px;
+}
+
+.subtitle {
+    font-size: .7em;
+    opacity: .75;
+    margin: 2px 0;
+}
+
+
+
 .section-title {
   font-size: 23px;
   letter-spacing: .1em;
   margin-top: 75px;
   line-height: 1.75;
+}
+
+.section-title,
+p.section-title {
+    line-height: 1.5;
 }
 
 .cta-default,
@@ -265,4 +283,19 @@ main#main-content {
       transform: translateY(-125%);
       text-align: center;
   }
+}
+
+
+ul.how-it-works-col li {
+    float: left;
+    padding: 50px 0 50px;
+}
+
+.how-it-works-info {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    align-self: center;
+    justify-content: center;
+    padding: 8%;
 }

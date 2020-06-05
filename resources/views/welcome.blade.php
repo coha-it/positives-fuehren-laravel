@@ -308,7 +308,7 @@
 										<p><strong> Positive Psychologie für Führungskräfte</strong> ist ein Onlinekurs, der die Themen Positive Führung und Unternehmensgestaltung mit neusten Erkenntnissen der Positiven Psychologie, Neurowissenschaften und Führungsansätzen verbindet.</p>
 
 										<div>
-											<a href="https://www.corporate-happiness.de/online-ausbildung-mit-trainerbegleitung" target="_blank" class="cta cta-default all-caps xxx_contact-trigger">
+											<a href="https://www.corporate-happiness.de/online-fuehrungskraeftekurs" target="_blank" class="cta cta-default all-caps xxx_contact-trigger">
 												Zum Online-Training
 											</a>
 										</div>
@@ -321,87 +321,33 @@
     						</div>
 
     						<div class="col-lg-6 col-md-12 col-sm-12 col-xs-12 col-12">
-    							<div class="row">
 
-    								<!-- BEGIN 1st Row Features -->
-    								<div class="the-feature col-lg-4 col-md-4 col-sm-6">
+                                <div class="row">
+                                    <div class="col-lg-12 col-md-12 col-sm-12 col-xs-12 col-12 text-left">
+                                        <ul class="checklist">
+                                            <div style="height: 50px;"></div>
+                                            <h3>Ist der Kurs der Richtige für mich?</h3>
 
-    									<a href="#0">
-    										<span class="feature-icon icon-clock3"></span>
+                                            <p>Der Kurs Positive Psychologie für Führungskräfte ist der richtige Kurs für Sie, wenn Sie sich schon einmal eine der folgenden Fragen gestellt haben oder einfach neugierig darauf sind, Neues zu lernen. </p>
 
-    										<h4 class="feature-title">Zeitlich flexibel</h4>
-
-    										<p>Überall und jederzeit verfügbar. In nur sechs Wochen – und ohne die Bindung an Workshop Zeiten oder Präsenztermine – können Sie den Online-Kurs absolvieren!</p>
-    									</a>
-
-    								</div> <!--/ .the-feature -->
-
-    								<div class="the-feature col-lg-4 col-md-4 col-sm-6">
-
-    									<a href="#0">
-    										<span class="feature-icon icon-happy3"></span>
-
-    										<h4 class="feature-title">Voller Inspiration</h4>
-
-    										<p>Durch motivierende und außergewöhnliche Umsetzungsbeispiele aus der Praxis werden die Zusammenhänge zwischen Positiver Psychologie, Führungsaufgaben und heutiger Arbeitswelt für Sie greifbar.</p>
-    									</a>
-
-    								</div> <!--/ .the-feature -->
-
-    								<div class="the-feature col-lg-4 col-md-4 col-sm-6">
-
-    									<a href="#0">
-    										<span class="feature-icon icon-lightbulb"></span>
-
-    										<h4 class="feature-title">Innovative Ideen</h4>
-
-    										<p>Der Kurs bietet einen umfassenden Überblick zu den Themen Positive Psychologie, positive Führung und positive Unternehmensgestaltung. Die neusten Forschungserkenntnisse haben wir für Sie in Alltagssprache übersetzt.</p>
-    									</a>
-
-    								</div> <!--/ .the-feature -->
-
-    								<div class="clearfix"></div>
-    								<!--/ END 1st Row Features -->
-
-
-    								<!-- BEGIN 2nd Row Features -->
-    								<div class="the-feature zero-bottom col-lg-4 col-md-4 col-sm-6">
-
-    									<a href="#0">
-    										<span class="feature-icon icon-film"></span>
-
-    										<h4 class="feature-title">5+ Stunden Videomaterial</h4>
-
-    										<p>Der Kurs hält über 5 Stunden Videomaterial für Sie bereit - aufgeteilt in kurze Videoeinheiten zwischen 5 und 15 Minuten.</p>
-    									</a>
-
-    								</div> <!--/ .the-feature -->
-
-    								<div class="the-feature zero-bottom col-lg-4 col-md-4 col-sm-6">
-
-    									<a href="#0">
-    										<span class="feature-icon icon-stack2"></span>
-
-    										<h4 class="feature-title">Praxisorientiert</h4>
-
-    										<p>Anhand von zahlreichen Reflektionsfragen, Übungen und Leitfäden können Sie die gelernten Inhalte direkt bei sich, Ihren Mitarbeitern und in Ihrem Unternehmen umsetzen.</p>
-    									</a>
-
-    								</div> <!--/ .the-feature -->
-
-    								<div class="the-feature zero-bottom col-lg-4 col-md-4 col-sm-6">
-
-    									<a href="#0">
-    										<span class="feature-icon icon-trophy3"></span>
-
-    										<h4 class="feature-title">Sichtbare Ergebnisse</h4>
-
-    										<p>Weniger Stress bei den Führungsaufgaben? Zufriedenere Mitarbeiter? Eine bessere Stimmung im Team? In nur wenigen Wochen werden positive Veränderungen spürbar. Überzeugen Sie sich selbst! </p>
-    									</a>
-
-    								</div> <!--/ .the-feature -->
-    								<!--/ END 2nd Row Features -->
-								</div>
+                                            <li>Wie begeistere ich meine Mitarbeiter?</li>
+                                            <li>Wie fördere ich die Stärken meines Teams?</li>
+                                            <li>Was sind die Komponenten positiver Führung?</li>
+                                            <li>Wie kann ich durch Sinnstiftung und Inspiration die Team-Performance steigern?</li>
+                                            <li class="visible-lg">Wie kann ich eine positive Kultur in meinem Unternehmen unterstützen?</li>
+                                        </ul> <!--/ .checklist -->
+                                    </div>
+                                    <div class="col-lg-12 col-md-12 col-sm-12 col-xs-12 col-12 text-left">
+                                        <h3>Was ist im Kurspreis enthalten?</h3>
+                                        <ul class="checklist">
+                                            <li>Zugang zur Online-Lernplattform für 3 Monate</li>
+                                            <li>Ein Willkommenspaket im Wert von 100 Euro</li>
+                                            <li>Support durch das Corporate Happiness®-Trainer-Team während Ihrer gesamten Kurszeit</li>
+                                            <li>Ein einzigartiges Lernerlebnis durch eine anregend gestaltete Online-Lernplattform</li>
+                                            <li class="visible-lg">Und vieles mehr!</li>
+                                        </ul> <!--/ .checklist -->
+                                    </div>
+                                </div>
     						</div>
 
     					</div> <!--/ .row -->
@@ -415,9 +361,11 @@
 
 								<div class="col-lg-8 offset-lg-2 col-md-8 offset-md-2 centered">
 
-									<p class="section-title">Die Module</p>
+                                    <p class="section-title" style="margin: 0 0 15px; padding: 0;">
+                                        Die Module
+                                    </p>
 
-									<h2 class="section-heading"></h2>
+									{{-- <h2 class="section-heading"></h2> --}}
 
 								</div> <!--/ .col-lg-8 -->
 
@@ -431,7 +379,8 @@
 										<div class="how-it-works-title">
 
 											<img src="{{ asset('old/images/fuehrungskurs/Bild1.jpg') }}" alt="Fully Responsive" data-pagespeed-url-hash="1308031545" onload="pagespeed.CriticalImages.checkImageForCriticality(this);" style="visibility: visible; ">
-											<h4>Grundlagenkurs</h4>
+                                            <h4>Grundlagenkurs</h4>
+                                            <p>Mehr erfahren</p>
 
 										</div> <!--/ .how-it-works-title -->
 
@@ -447,7 +396,8 @@
 										<div class="how-it-works-title">
 
 											<img src="{{ asset('old/images/fuehrungskurs/Bild3.jpg') }}" alt="Fully Responsive" data-pagespeed-url-hash="1897031387" onload="pagespeed.CriticalImages.checkImageForCriticality(this);" style="visibility: visible; ">
-											<h4>Positive Führung</h4>
+                                            <h4>Positive Führung</h4>
+                                            <p>Mehr erfahren</p>
 
 										</div> <!--/ .how-it-works-title -->
 
@@ -463,7 +413,8 @@
 										<div class="how-it-works-title">
 
 											<img src="{{ asset('old/images/fuehrungskurs/Bild2.jpg') }}" alt="Fully Responsive" data-pagespeed-url-hash="1602531466" onload="pagespeed.CriticalImages.checkImageForCriticality(this);" style="visibility: visible; ">
-											<h4>Positive Unternehmensgestaltung</h4>
+                                            <h4>Positive Unternehmensgestaltung</h4>
+                                            <p>Mehr erfahren</p>
 
 										</div> <!--/ .how-it-works-title -->
 
@@ -483,35 +434,92 @@
 
 							</div> <!--/ .row -->
 						</div> <!--/ .container-full -->
-
 					</section>
 
 					<div class="container big">
-						<div class="row">
-							<div class="col-lg-6 col-md-6 col-sm-12 col-xs-12 col-12 text-left">
-								<ul class="checklist">
-									<h3>Ist der Kurs der Richtige für mich?</h3>
 
-									<p>Der Kurs Positive Psychologie für Führungskräfte ist der richtige Kurs für Sie, wenn Sie sich schon einmal eine der folgenden Fragen gestellt haben oder einfach neugierig darauf sind, Neues zu lernen. </p>
+                        <div class="row">
 
-									<li>Wie begeistere ich meine Mitarbeiter?</li>
-									<li>Wie fördere ich die Stärken meines Teams?</li>
-									<li>Was sind die Komponenten positiver Führung?</li>
-									<li>Wie kann ich durch Sinnstiftung und Inspiration die Team-Performance steigern?</li>
-									<li class="visible-lg">Wie kann ich eine positive Kultur in meinem Unternehmen unterstützen?</li>
-								</ul> <!--/ .checklist -->
-							</div>
-							<div class="col-lg-6 col-md-6 col-sm-12 col-xs-12 col-12 text-left">
-								<h3>Was ist im Kurspreis enthalten?</h3>
-								<ul class="checklist">
-									<li>Zugang zur Online-Lernplattform für 3 Monate</li>
-									<li>Ein Willkommenspaket im Wert von 100 Euro</li>
-									<li>Support durch das Corporate Happiness®-Trainer-Team während Ihrer gesamten Kurszeit</li>
-									<li>Ein einzigartiges Lernerlebnis durch eine anregend gestaltete Online-Lernplattform</li>
-									<li class="visible-lg">Und vieles mehr!</li>
-								</ul> <!--/ .checklist -->
-							</div>
-						</div>
+                            <!-- BEGIN 1st Row Features -->
+                            <div class="the-feature col-lg-4 col-md-4 col-sm-6">
+
+                                <a href="#0">
+                                    <span class="feature-icon icon-clock3"></span>
+
+                                    <h4 class="feature-title">Zeitlich flexibel</h4>
+
+                                    <p>Überall und jederzeit verfügbar. In nur sechs Wochen – und ohne die Bindung an Workshop Zeiten oder Präsenztermine – können Sie den Online-Kurs absolvieren!</p>
+                                </a>
+
+                            </div> <!--/ .the-feature -->
+
+                            <div class="the-feature col-lg-4 col-md-4 col-sm-6">
+
+                                <a href="#0">
+                                    <span class="feature-icon icon-happy3"></span>
+
+                                    <h4 class="feature-title">Voller Inspiration</h4>
+
+                                    <p>Durch motivierende und außergewöhnliche Umsetzungsbeispiele aus der Praxis werden die Zusammenhänge zwischen Positiver Psychologie, Führungsaufgaben und heutiger Arbeitswelt für Sie greifbar.</p>
+                                </a>
+
+                            </div> <!--/ .the-feature -->
+
+                            <div class="the-feature col-lg-4 col-md-4 col-sm-6">
+
+                                <a href="#0">
+                                    <span class="feature-icon icon-lightbulb"></span>
+
+                                    <h4 class="feature-title">Innovative Ideen</h4>
+
+                                    <p>Der Kurs bietet einen umfassenden Überblick zu den Themen Positive Psychologie, positive Führung und positive Unternehmensgestaltung. Die neusten Forschungserkenntnisse haben wir für Sie in Alltagssprache übersetzt.</p>
+                                </a>
+
+                            </div> <!--/ .the-feature -->
+
+                            <div class="clearfix"></div>
+                            <!--/ END 1st Row Features -->
+
+
+                            <!-- BEGIN 2nd Row Features -->
+                            <div class="the-feature zero-bottom col-lg-4 col-md-4 col-sm-6">
+
+                                <a href="#0">
+                                    <span class="feature-icon icon-film"></span>
+
+                                    <h4 class="feature-title">5+ Stunden Videomaterial</h4>
+
+                                    <p>Der Kurs hält über 5 Stunden Videomaterial für Sie bereit - aufgeteilt in kurze Videoeinheiten zwischen 5 und 15 Minuten.</p>
+                                </a>
+
+                            </div> <!--/ .the-feature -->
+
+                            <div class="the-feature zero-bottom col-lg-4 col-md-4 col-sm-6">
+
+                                <a href="#0">
+                                    <span class="feature-icon icon-stack2"></span>
+
+                                    <h4 class="feature-title">Praxisorientiert</h4>
+
+                                    <p>Anhand von zahlreichen Reflektionsfragen, Übungen und Leitfäden können Sie die gelernten Inhalte direkt bei sich, Ihren Mitarbeitern und in Ihrem Unternehmen umsetzen.</p>
+                                </a>
+
+                            </div> <!--/ .the-feature -->
+
+                            <div class="the-feature zero-bottom col-lg-4 col-md-4 col-sm-6">
+
+                                <a href="#0">
+                                    <span class="feature-icon icon-trophy3"></span>
+
+                                    <h4 class="feature-title">Sichtbare Ergebnisse</h4>
+
+                                    <p>Weniger Stress bei den Führungsaufgaben? Zufriedenere Mitarbeiter? Eine bessere Stimmung im Team? In nur wenigen Wochen werden positive Veränderungen spürbar. Überzeugen Sie sich selbst! </p>
+                                </a>
+
+                            </div> <!--/ .the-feature -->
+                            <!--/ END 2nd Row Features -->
+                        </div>
+
 						<div class="row">
 							<div class="col-lg-12 col-12 text-center">
 								<a href="https://www.corporate-happiness.de/positive-psychologie-fuer-fuehrungskraefte" target="_blank" class="cta cta-default all-caps xxx_contact-trigger">
@@ -546,21 +554,96 @@
                     <div class="container">
                         <div class="row">
 
-                            <div class="col-lg-8 offset-lg-2 col-md-8 offset-md-2 centered">
+                            <div class="col-lg-6 col-md-6 col-sm-12 col-12 text-left">
+                                <br>
+                                <p>
+                                    In unserem virtuellen Intensivseminar für Unternehmer, Führungskräfte und Personalentwickler Erleben Sie die enge Verzahnung zwischen Theorie und Praxis in unserem Intensivseminar. Aufbauend auf unserem oben beschriebenen Onlinekurs, werden wir die Themen der Positiven Führung und der positiven Unternehmensgestaltung anhand von konkreten Unternehmensbeispielen vertiefen und die ganz persönlichen Herausforderungen Ihres Unternehmens besprechen. ​
+                                </p>
+                                <p>
+                                    Dazu bieten wir sechs interessante Live-Websessions zu äußerst relevanten Themen an, in denen auch immer wieder Interviewpartner hinzugeschalten werden, die Ihnen von Ihren Erfahrungen berichten und für Fragen zur Verfügung stehen. ​
+                                </p>
+                            </div>
 
-                                <h2 class="section-heading">In unserem virtuellen Intensivseminar für Unternehmer, Führungskräfte und Personalentwickler</h2>
+                            <div class="col-lg-6 col-md-6 col-sm-12 col-12 text-left">
+                                <br>
+                                <p>Der Kurs Positive Psychologie für Führungskräfte ist der richtige Kurs für Sie, wenn Sie sich schon einmal eine der folgenden Fragen gestellt haben oder einfach neugierig darauf sind, Neues zu lernen. </p>
+                                <ul class="checklist">
 
-                            </div> <!--/ .col-lg-8 -->
+                                    <li>aus der Abwärtsspirale des Fachkräftemangels aussteigen​</li>
+                                    <li>ein attraktiverer Arbeitgeber werden und Ihre MitarbeiterInnen gerne für Sie arbeiten​</li>
+                                    <li>und Ihr Team die Chancen der Digitalisierung nutzen wie Sie eine echte Aufbruchsstimmung für Veränderung im Team erzeugen​</li>
+                                    <li>eine Kultur der Wertschätzung etablieren​</li>
+                                    <li>Ihr Team sinnorientiert führen​</li>
+                                    <li>und Ihr Team leidenschaftlich das tun, für was sie brennen (Erfolg ist unvermeidbar 😊)​ ​</li>
+                                </ul> <!--/ .checklist -->
+                            </div>
 
                             <div class="clearfix"></div>
 
-                            <div class="col-lg-10 offset-lg-1">
+                            <div class="col-lg-12 col-12">
+                                {{-- <h3 class="text-left">
+                                    Mehrwert
+                                </h3> --}}
+                                <p class="section-title" style="margin: 25px 0; padding: 0;">
+                                    Mehrwert
+                                </p>
+                            </div><!--/ .col-lg-10 -->
+
+                            <div class="col-lg-6 col-12 text-left">
+                                <h4>
+                                    Online-Selbststudium
+                                    <div class="subtitle">
+                                        Zeitbedarf circa 2 Std. pro Woche ​
+                                    </div>
+                                </h4>
 
                                 <p>
-                                    erleben Sie die enge verzahnung zwischen Theorie und Praxis. Aufbauend auf unserem oben beschriebenen Onlinekurs, werden wir die Themen anhand von konkreten Unternehmensbeispielen vertiefen und die ganz persönlichen Herausforderungen Ihres Unternehmens besprechen. Dazu werden wir auch immer wieder Interviewpartner hinzuschalten, die Ihnen von Ihren Erfahrungen berichten und für Fragen zur Verfügung stellen.​ Termine und weitere Infos folgen in Kürze. ​
+                                    Sie können sich die Impulse und Videos ganz zeit- und ortsunabhängig ansehen, genau dann, wenn Sie aufnahmebereit für Wissen sind. Das Material steht Ihnen für die gesamte Kursdauer zur Verfügung.
                                 </p>
+                            </div>
 
-                            </div><!--/ .col-lg-10 -->
+                            <div class="col-lg-6 col-12 text-left">
+                                <h4>
+                                    Austauschforum
+                                    <div class="subtitle">
+                                        Zeitbedarf individuell adaptierbar ​
+                                    </div>
+                                </h4>
+
+                                <p>
+                                    ​Im Gruppenchat haben Sie die Möglichkeit, während der gesamten Kursdauer Fragen zu stellen, Erfahrungen zu teilen, um das Maximum aus diesem Kurs herauszuholen. So bleiben Sie immer am Ball, lernen andere Führungskräfte kennen, die an ähnlichen Themen arbeiten und erweitern Ihr Netzwerk durch den Austausch.
+                                </p>
+                            </div>
+
+                            <div class="col-lg-6 col-12 text-left">
+                                <h4>
+                                    Live-Websessions mit Dr. Oliver Haas
+                                    <div class="subtitle">
+                                        Zeitbedarf 2 Stunden alle 14 Tage 
+                                    </div>
+                                </h4>
+
+                                <p>
+                                    ​In einem der Highlights des Kurses, den sechs Live-Websessions, haben Sie die Möglichkeit, Fragen zu stellen und sich interaktiv mit Ihren eigenen Fallbeispielen aus Ihrem Unternehmen miteinzubringen. Zudem wird es immer wieder inspirierende und beeindruckende Gäste in diesen Live-Websessions geben, die einen Kulturwandel bereits erfolgreich gemeistert haben. Seien Sie also gespannt!
+                                </p>
+                            </div>
+
+                            <div class="col-lg-6 col-12 text-left">
+                                <h4>
+                                    Themen der 6 Live-Sessions
+                                </h4>
+
+                                <p>
+                                    <ul class="checklist">
+                                        <li>Höhere Ziele mit mehr Spaß und weniger Stress erreichen​</li>
+                                        <li>Neues Wachstum erleben​</li>
+                                        <li>Wertschätzung schafft Wertschöpfung​</li>
+                                        <li>Peak Performance Teams​</li>
+                                        <li>Inviting statt Recruiting - Attraktiver Arbeitgeber werden​</li>
+                                        <li>Die Digitalisierung nutzen – der Mensch ist die Zukunft </li>
+                                    </ul>
+                                </p>
+                            </div>
 
                             <div class="clearfix"></div>
 
