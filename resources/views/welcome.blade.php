@@ -353,7 +353,7 @@
     					</div> <!--/ .row -->
 					</div> <!--/ .container -->
 
-					<section id="die-module" class="centered">
+					<section id="die-module" class="centered" style="padding-bottom: 25px;">
 
 						<div class="container-full">
 							<div class="row">
@@ -678,24 +678,26 @@
 						@php
 							$quote_persons = [
 								[
-									'name' => 'Hans-Joachim Scherpel',
+                                    'name' => 'Hans-Joachim Scherpel',
+                                    'company' => 'Geschäftsführer Malzers Backstube​',
 									'quote' => 'Die Corporate Happiness® Ausbildung war meine beste Weiterbildung der letzten 30 Jahre!',
 									'image' => 'hans-joachim-scherpel.jpg'
 								],
 								[
 									'name' => 'Silke Göddertz​',
-									'company' => 'Deutsche Telekom',
+									'company' => 'Personalentwicklung, Deutsche Telekom​',
 									'quote' => 'Ich hätte nie gedacht, dass so viel Kraft dadurch freigesetzt wird.  ',
 									'image' => 'silke-goeddertz.jpg'
 								],
 								[
 									'name' => 'Anette Farrenkopf​',
-									'company' => 'JobCenter München',
+									'company' => 'Geschäftsführerin, JobCenter München​',
 									'quote' => 'Ich empfehle Führungskräften, sich aktiv zu beteiligen, um Ideen in die Teams zu bringen und die Kulturprojekte besser zu begleiten. ',
 									'image' => 'anette-farrenkopf.jpg'
 								],
 								[
-									'name' => 'Michael Buttgereit',
+                                    'name' => 'Michael Buttgereit',
+                                    'company' => 'Geschäftsführer, Gute Botschafter​',
 									'quote' => 'Wenn sie den Schatz in Ihren MitarbeiterInnen entdecken und freisetzen, entsteht dadurch ein großes Glücksgefühl.',
 									'image' => 'michael-buttgereit.jpg'
 								],
@@ -720,6 +722,10 @@
 
 										<div class="name">
 											{{ $person['name'] }}
+                                        </div>
+
+										<div class="company">
+											{{ $person['company'] }}
 										</div>
 									</div>
 								</div>
@@ -736,7 +742,7 @@
 			== BEGIN PRICING SECTION ==
 			===========================
 			-->
-			<section id="pricing" class="centered">
+			<section id="pricing" class="centered" style="padding-top: 0;">
 
 				<div class="container">
 					<div class="row">
@@ -797,7 +803,7 @@
 
 									<h5 class="price-title">Intensivseminar</h5>
 									<span class="best-value-label">Positives Führen</span>
-									<div class="price-amount">3.000 EUR</div>
+									<div class="price-amount">1.800 EUR</div>
 									<ul class="price-feature">
 										<li>Im Preis enthalten:</li>
 										<li>Onlinekurs „Positive Psychologie für Führungskräfte“</li>
