@@ -191,6 +191,32 @@ h1, h2, h3, h4, h5
     }
 }
 
+
+ul.pricing.row.justify-content-center {
+    display: flex;
+    align-items: stretch;
+    justify-content: stretch;
+    align-self: stretch;
+
+    & > div {
+        margin-bottom: 20px;
+        li.price {
+            height: 100%;
+            position: relative;
+            padding-bottom: 50px !important;
+
+            a.price-button {
+                position: absolute;
+                bottom: 0;
+                left: 0;
+                right: 0;
+                width: 100%;
+                margin: auto !important;
+            }
+        }
+    }
+}
+
 h4 {
     line-height: 1.25;
     margin-bottom: 10px;

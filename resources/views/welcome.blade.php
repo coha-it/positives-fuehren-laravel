@@ -647,19 +647,7 @@
 
                             <div class="clearfix"></div>
 
-                            <div data-sr="enter bottom over 1s and move 80px wait 0.4s" style="width: 100%;">
-                                <a class="cta cta-default all-caps contact-trigger">
-                                    Kontakt
-                                </a>
-
-                                <br>
-                                <br>
-
-                                <p data-sr="enter bottom over 1s and move 80px wait 0.4s">
-                                    E-Mail:
-                                    <a href="mailto:sales@corporate-happiness.de">sales@corporate-happiness.de</a>
-                                </p>
-                            </div>
+                            @include('components.contact_btn')
 
                         </div> <!--/ .row -->
                     </div> <!--/ .container -->
@@ -773,7 +761,7 @@
                                                         <li>Aufzeichnung der Sessions zum wiederholten anschauen</li>
                                                         <li>Teilnehmer können individuelle Themen einbringen​</li>
                                                     </ul> <!--/ .price-feature -->
-                                                    <a href="https://www.corporate-happiness.de/krisenmangementkurs-mit-dr.-oliver-haas" target="_blank" class="price-button all-caps">Jetzt kaufen</a>
+                                                    <a href="https://www.corporate-happiness.de/krisenmangementkurs-mit-dr.-oliver-haas" target="_blank" class="price-button all-caps">Jetzt anmelden</a>
 
 
                                                 </li> <!--/ .price -->
@@ -791,7 +779,7 @@
                                                         <li>Willkommenspaket im Wert von 100 Euro</li>
                                                         <li>Neue Erkenntnisse, mehr Spaß bei der Arbeit, Persönlichkeitsentwicklung</li>
                                                     </ul> <!--/ .price-feature -->
-                                                    <a href="https://www.corporate-happiness.de/online-fuehrungskraeftekurs" target="_blank" class="price-button all-caps">Jetzt kaufen</a>
+                                                    <a href="https://www.corporate-happiness.de/online-fuehrungskraeftekurs" target="_blank" class="price-button all-caps">Jetzt anmelden</a>
 
 
                                                 </li> <!--/ .price -->
@@ -810,13 +798,26 @@
 										<li>6 Live-Sessions mit Dr. Oliver Haas und Unternehmern als Gästen</li>
 										<li>Persönliches Telefonat mit Dr. Oliver Haas</li>
 									</ul> <!--/ .price-feature -->
-									<a href="https://www.corporate-happiness.de/shop" target="_blank" class="price-button all-caps">Jetzt kaufen</a>
+									<a href="https://www.corporate-happiness.de/shop" target="_blank" class="price-button all-caps">Jetzt anmelden</a>
 
 
                                 </li> <!--/ .price -->
 							</div>
 
-						</ul> <!--/ .pricing -->
+                        </ul> <!--/ .pricing -->
+
+                        <div class="row">
+                            <div class="col col-12 col-lg-12 col-xs-12">
+                                <br>
+                                <p style="max-width: 770px;     margin: auto;">
+                                    Alle Kursangebote bieten wir auch als exklusive Inhouse-Lösungen an. <br>
+                                    Kontaktieren Sie uns für ein individuelles Angebot:​
+                                </p>
+
+
+                                @include('components.contact_btn')
+                            </div>
+                        </div>
 						<!--/ END Pricing Table -->
 				</div> <!--/ .container -->
 
@@ -904,7 +905,7 @@
 						<p>Haben Sie noch weitere Fragen? Sind Sie sich unsicher, ob der Kurs der Richtige für Sie ist? Scheuen Sie sich nicht, uns anzusprechen!</p>
 
 						<!-- BEGIN Contact Form -->
-						<div class="col-lg-6 col-md-6">
+						<div class="col-lg-6 col-md-6" style="margin: auto;">
 
 							<form class="contact-form" id="contact-form" method="post" action="contact">
 								@csrf
