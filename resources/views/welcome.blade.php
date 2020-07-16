@@ -116,7 +116,7 @@
 			</ul> <!--/ .main-nav -->
 
 			<ul class="secondary-nav">
-				<li><a href="@route('imprint')">Impressum und Datenschutz</a></li>
+				<li><a href="/impressum">Impressum und Datenschutz</a></li>
 				<li><a class="contact-trigger">Kontakt</a></li>
 			</ul> <!--/ .secondary-nav -->
 
@@ -848,7 +848,7 @@
 
 					<ul class="footer-nav all-caps" style="width: 100%;">
 						<li><a href="https://www.corporate-happiness.de" target="_blank">About</a></li>
-						<li><a href="@route('imprint')">Impressum und Datenschutz</a></li>
+						<li><a href="/impressum">Impressum und Datenschutz</a></li>
 						<li><a class="contact-trigger">Kontakt</a></li>
 					</ul> <!--/ .footer-nav -->
 
