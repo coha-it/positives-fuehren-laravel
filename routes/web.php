@@ -15,7 +15,7 @@ use Illuminate\Support\Facades\Route;
 
 // Pages
 Route::get('/', 'PageCtrl@welcome');
-Route::get('impressum', 'PageCtrl@impressum');
+Route::get('impressum', 'PageCtrl@impressum')->name('imprint');
 Route::get('debug', 'PageCtrl@debug');
 
 // Contact Form
