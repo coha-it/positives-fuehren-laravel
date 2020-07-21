@@ -272,7 +272,7 @@
                             <div class="clearfix"></div>
 
                             <div class="col-lg-12">
-                                <a href="https://www.corporate-happiness.de/krisenmangementkurs-mit-dr.-oliver-haas" target="_blank" class="cta cta-default all-caps xxx_contact-trigger">Termine</a>
+                                <a href="https://www.corporate-happiness.de/termine" target="_blank" class="cta cta-default all-caps xxx_contact-trigger">Termine</a>
                             </div>
 
     						<br><br><br>
@@ -654,7 +654,7 @@
                 </div>
 			</section>
 
-            <section>
+            <section id="referenzen">
                 <div class="container big">
 					<div class="row">
 						<div class="col-lg-8 offset-lg-2 col-md-8 offset-md-2 centered">
@@ -798,7 +798,7 @@
 										<li>6 Live-Sessions mit Dr. Oliver Haas und Unternehmern als Gästen</li>
 										<li>Persönliches Telefonat mit Dr. Oliver Haas</li>
 									</ul> <!--/ .price-feature -->
-									<a href="https://www.corporate-happiness.de/shop" target="_blank" class="price-button all-caps">Jetzt anmelden</a>
+									<a href="https://www.corporate-happiness.de/intensivseminar-das-neue-fuehren" target="_blank" class="price-button all-caps">Jetzt anmelden</a>
 
 
                                 </li> <!--/ .price -->
